@@ -23,7 +23,8 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/index.html">&nbsp;
@@ -43,9 +44,7 @@
         </div>
       </div>
     </div>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron"><br>
-    </div>
+    
     <!--********************************************************************************************************************************************************-->
     <div class="container">
       <div class="page-header">
@@ -100,7 +99,8 @@
                     team leader nominations by 4pm on Tues 9/2. May
                     self-nominate.</li>
                   <li><a href="https://docs.google.com/a/siena.edu/forms/d/1UXLarRRVcEXMUWFrseqhXz5FREzSjYGLS1COqikbdUQ/viewform?usp=send_form">Submit
-                      </a>project preferences by 4pm on Weds 9/3. This is <span
+                      </a>project preferences by 4pm on Weds 9/3. This is <span
+
                       style="text-decoration: underline;">not </span>required.&nbsp;
                     Only submit if you would like a project preference
                     considered when teams are selected.</li>
@@ -112,9 +112,12 @@
               </td>
               <td>
                 <ul>
-                  <li>Definitions: Software Engineering - <a href="http://sites.computer.org/ccse/SE2004Volume.pdf">ACM</a>/<a
-                      href="http://informatique.umons.ac.be/genlog/SE/SE-contents.html">IEEE</a>/<a
-                      href="http://en.wikipedia.org/wiki/Friedrich_L._Bauer">Bauer</a>/<a
+                  <li>Definitions: Software Engineering - <a href="http://sites.computer.org/ccse/SE2004Volume.pdf">ACM</a>/<a
+
+                      href="http://informatique.umons.ac.be/genlog/SE/SE-contents.html">IEEE</a>/<a
+
+                      href="http://en.wikipedia.org/wiki/Friedrich_L._Bauer">Bauer</a>/<a
+
                       href="http://www.quora.com/Software-Engineering">Other</a></li>
                   <li><a href="http://www.dailywritingtips.com/email-etiquette/">E-mail
                       etiquette</a> - <a href="http://www.emailreplies.com/">Email
@@ -195,7 +198,8 @@ for
                   <li><a href="http://www.businessinsider.com/excellent-resume-for-recent-grad-2014-7">8
                       Reasons This Is An Excellent Resume For A Recent College
                       Graduate</a></li>
-                  <li><a href="http://www.snagajob.com/resources/whats-my-tattoopiercinghairstyle-got-to-do-with-it/"><span
+                  <li><a href="http://www.snagajob.com/resources/whats-my-tattoopiercinghairstyle-got-to-do-with-it/"><span
+
                         style="color: #428bca;">What’s my
                         tattoo/piercing/hairstyle got to do with it?</span></a></li>
                   <li><span style=" color: #428bca;"><a href="http://www.workingworld.com/articles/tattoos-and-piercings-in-the-workplace">Tattoos
@@ -266,7 +270,8 @@ for
                   <li>All students must present </li>
                   <li>Clients should be invited but are not required to attend</li>
                   <li>Business formal attire is required for all team members</li>
-                  <li>Deliverables,<span style="color: #428bca;"> </span><a target="_blank"
+                  <li>Deliverables,<span style="color: #428bca;"> </span><a target="_blank"
+
                       href="https://docs.google.com/a/siena.edu/spreadsheets/d/1aYq4eqUwJpoeVv9RC8OtNBFr0CLcFM48H1u07Mvq1qY/edit?usp=sharing">Presentation</a>,
                     and Team website: 5% of final grade</li>
                   <li>Team and individual pictures will be taken</li>
@@ -336,7 +341,8 @@ evaluation
                 <ul class="style44">
                   <li>Use Case narratives - <a href="http://danieldyba.com/blog/2012/01/19/writing-my-first-usage-narrative">Usage
                       Narratives</a></li>
-                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/presentation/d/1Zw9dMF4v_39zV541kAmdSe16gFkOg-Go9cBQSPaxN1E/edit?usp=sharing"
+                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/presentation/d/1Zw9dMF4v_39zV541kAmdSe16gFkOg-Go9cBQSPaxN1E/edit?usp=sharing"
+
                       href="https://docs.google.com/a/siena.edu/presentation/d/1Zw9dMF4v_39zV541kAmdSe16gFkOg-Go9cBQSPaxN1E/edit?usp=sharing">Use
                       Case Modeling</a></li>
                   <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-reference.html">Use
@@ -383,7 +389,8 @@ Requirements
               </td>
               <!--Lecture -->
               <td>10/2</td>
-              <td><span style="text-decoration: underline; font-weight: bold;"></span><span
+              <td><span style="text-decoration: underline; font-weight: bold;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
@@ -419,7 +426,8 @@ Requirements
 Flow
                       Diagrams</a> (a <a href="http://en.wikipedia.org/wiki/Structured_Systems_Analysis_and_Design_Methodology">SSADM
                       technique</a>)</li>
-                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/document/d/1iUv6UgBzuy8nx1brvSxrnsYYvolahV4XdeUUV-oYu0o/edit?usp=sharing"
+                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/document/d/1iUv6UgBzuy8nx1brvSxrnsYYvolahV4XdeUUV-oYu0o/edit?usp=sharing"
+
                       href="https://docs.google.com/a/siena.edu/document/d/1iUv6UgBzuy8nx1brvSxrnsYYvolahV4XdeUUV-oYu0o/edit?usp=sharing">DFD
                       Mini-Specs</a></li>
                   <li>Check the <a href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/links.html">Links
@@ -485,7 +493,8 @@ Flow
               </td>
               <!--Lecture -->
               <td>10/16</td>
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
@@ -549,7 +558,8 @@ Flow
                       <li><a href="http://office.microsoft.com/en-us/templates/TC060914491033.aspx">Cover
                           letter</a> (template: <a href="https://www.google.com/search?q=cover+letter+for+a+entry+level+programming++job">examples</a>)</li>
                       <li><a href="http://www.quintcareers.com/sample_reference_list_2.pdf">Reference
-                          List</a><span style="font-weight: bold;"> </span>(<a
+                          List</a><span style="font-weight: bold;"> </span>(<a
+
                           href="http://www.google.com/search?hl=en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;hs=RUX&amp;q=job+references+list&amp;revid=371695199&amp;sa=X&amp;oi=revisions_narrow&amp;resnum=5&amp;ct=revision&amp;cd=1">examples
 of
                           list of references</a>)</li>
@@ -676,7 +686,8 @@ evaluation
 Contractor
                             Checklist</a></span></li>
                       <span style="font-weight: normal;"> </span>
-                      <li><span style="font-weight: normal;"><a target="_blank"
+                      <li><span style="font-weight: normal;"><a target="_blank"
+
                             href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Self-Employed-Individuals-Tax-Center">Self-Employed
                             IRS Information</a></span></li>
                     </ul>
@@ -705,7 +716,8 @@ Contractor
               </td>
               <!--Lecture -->
               <td>11/6</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
                 <ul>
@@ -736,9 +748,11 @@ Contractor
                   <ul>
                     <li>Teams should mock-up two Unit Tests (maybe login unit
                       and a unit that reads/writes to a database) - in the
-                      sample Excel file given below (<a href="http://www.cs.siena.edu/%7Elederman/SoftEng/Unit%20Tests%20-%20Crude%20Template.xlsx"
+                      sample Excel file given below (<a href="http://www.cs.siena.edu/%7Elederman/SoftEng/Unit%20Tests%20-%20Crude%20Template.xlsx"
+
                         target="_blank">Example Unit Test Sample</a>).&nbsp; </li>
-                    <li>These efforts will be presented and discussed on <span
+                    <li>These efforts will be presented and discussed on <span
+
                         style="font-weight: bold;">Thur 11/13<br>
                       </span></li>
                   </ul>
@@ -752,18 +766,21 @@ Contractor
                   </ul>
                   <li>Data Dictionary (Our Style)</li>
                   <ul>
-                    <li><a href="http://www.cdpr.ca.gov/docs/enforce/residue/datadict.htm"
+                    <li><a href="http://www.cdpr.ca.gov/docs/enforce/residue/datadict.htm"
+
                         target="_blank">Data Dictionary - spreadsheet - verbose
                         entries</a></li>
                   </ul>
                   <ul>
-                    <li><a href="http://irsa.ipac.caltech.edu/applications/DDGEN/Doc/dd_tbl.html"
+                    <li><a href="http://irsa.ipac.caltech.edu/applications/DDGEN/Doc/dd_tbl.html"
+
                         target="_blank">Data Dictionary - format explained for
                         real example</a></li>
                   </ul>
                   <li>Data Dictionary (Other Styles)</li>
                   <ul>
-                    <li><a href="http://www.umsl.edu/%7Esauterv/analysis/dfd/DATA_DIC.HTM"
+                    <li><a href="http://www.umsl.edu/%7Esauterv/analysis/dfd/DATA_DIC.HTM"
+
                         target="_blank">Data Dictionary - full form</a></li>
                     <li><a href="http://www.bcarter.com/tip039.htm">Data
                         Dictionary - form - DBMS table - ERD</a></li>
@@ -772,10 +789,12 @@ Contractor
                       Creator application - database definition</a></li>
                   <ul>
                   </ul>
-                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/Unit%20Tests%20-%20Crude%20Template.xlsx"
+                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/Unit%20Tests%20-%20Crude%20Template.xlsx"
+
                       target="_blank">Example Unit Test Sample <br>
                     </a></li>
-                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1csAzAGVI7wLbTXoRBAgF-JREgTpAu3xluvdTdnivypg/edit?usp=sharing"
+                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1csAzAGVI7wLbTXoRBAgF-JREgTpAu3xluvdTdnivypg/edit?usp=sharing"
+
                       target="_blank">Documentation Guidelines for Agile Teams</a></li>
                   <ul>
                   </ul>
@@ -821,7 +840,8 @@ Golden
                   <li><a target="_blank" href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
 Usability
                       Heuristics</a></li>
-                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
+                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
+
                         style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
                   <li><a target="_blank" href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
                       Interface Design Tips, Techniques, and Principles</a></li>
@@ -833,7 +853,8 @@ Usability
               <!-- Month -->
               <td>11/18</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
                 <ul>
@@ -844,7 +865,8 @@ Usability
               </td>
               <!--Lecture -->
               <td>11/20</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"><span
+              <td><span style="font-weight: bold; text-decoration: underline;"><span
+
                     style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
                 </span>
                 <ul>
@@ -910,7 +932,8 @@ Usability
                   </ul>
                   <li>Update Team Website with Preliminary Design documents and
                     presentation</li>
-                  <li>*<a href="https://docs.google.com/a/siena.edu/document/d/1csAzAGVI7wLbTXoRBAgF-JREgTpAu3xluvdTdnivypg/edit?usp=sharing"
+                  <li>*<a href="https://docs.google.com/a/siena.edu/document/d/1csAzAGVI7wLbTXoRBAgF-JREgTpAu3xluvdTdnivypg/edit?usp=sharing"
+
                       target="_blank">Documentation Guidelines for Agile Teams</a></li>
                   <ul>
                   </ul>
@@ -1089,7 +1112,8 @@ evaluation
                 <ul>
                   <li> <a target="_blank" href="https://drive.google.com/a/siena.edu/file/d/0B8xJjxsbUoMDTEI1d2pwaEtUMnc/view?usp=sharing">The
                       Mythical Man-Month</a></li>
-                  <li><a target="_blank" href="http://www.nationaljournal.com/health-care/obamacare-website-has-cost-840-million-20140730"><span
+                  <li><a target="_blank" href="http://www.nationaljournal.com/health-care/obamacare-website-has-cost-840-million-20140730"><span
+
                         style="color: #428bca;">Obamacare Website Has Cost $840
                         Million</span></a></li>
                   <li><span style=" color: #428bca;"><a target="_blank" href="http://www.cnn.com/2013/10/24/politics/congress-obamacare-website/">Contractors
