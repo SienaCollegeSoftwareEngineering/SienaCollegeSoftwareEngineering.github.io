@@ -80,11 +80,13 @@
               <td>
                 <ul>
                   <li> Review updated <a target="_blank" href="https://docs.google.com/a/siena.edu/spreadsheets/d/1YKvNKDGUTcPRHfHwpQK0x9VxGGJPfLVG_4CjALoTR0c/edit?usp=sharing">Team
-                      Website Grading Rubric</a> (note new requirements)</li>
+                      Website Grading Rubric</a> (note new requirements) </li>
                 </ul>
                 <ul>
                   <li><a target="_blank" href="http://goo.gl/forms/wVflpql4T3">Submit
-                      GitHub username</a></li>
+                      GitHub username<span style="color: #333333;"></span></a><span
+                      style=" color: #333333;"> (Due start of class on 1/21)<br>
+                    </span></li>
                 </ul>
               </td>
               <td>
@@ -122,7 +124,12 @@
               <td>Lab 2: Version Control (GitHub)</td>
               <td>1/28</td>
               <td>Lecture 3:</td>
-              <td><br>
+              <td>
+                <ul>
+                  <li>Publish Software Engineering I documentation to Siena
+                    Software Engineering GitHub repository <span style=" color: #333333;">(Due
+                      start of class on 1/28)</span></li>
+                </ul>
               </td>
               <td><br>
               </td>
