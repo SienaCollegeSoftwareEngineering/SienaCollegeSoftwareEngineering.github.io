@@ -61,9 +61,10 @@
               <td><span style="font-weight: bold;">Date</span></td>
               <th> <br>
               </th>
-              <td><span style="font-weight: bold;">Assignments<br>
+              <td style="width: 304px;"><span style="font-weight: bold;">Assignments<br>
                 </span></td>
-              <th>Readings (Due before the following week's lecture)</th>
+              <th style="margin-left: 0px;">Readings (Due before the following
+                week's lecture)</th>
             </tr>
           </thead>
           <tbody>
@@ -172,8 +173,10 @@
               <td>1/28</td>
               <td>Lecture 3:<br>
                 <ul>
-                  <li>Quiz 1</li>
-                  <li>Copyright and Intellectual Property </li>
+                  <li>Workplace discrimination and harassment</li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        1</span></span></li>
+                  <li>Copyright and Intellectual Property</li>
                 </ul>
               </td>
               <td>
@@ -199,7 +202,11 @@
               <td>2/2</td>
               <td>Lab 3: Lab: Model View Controller (MVC) Paradigm&nbsp;</td>
               <td>2/4</td>
-              <td>Lecture 4: </td>
+              <td>Lecture 4: <br>
+                <ul>
+                  <li>Copyright and Intellectual Property</li>
+                </ul>
+              </td>
               <td><br>
               </td>
               <td>
@@ -220,7 +227,8 @@
               <td>2/11</td>
               <td>Lecture 5:<br>
                 <ul>
-                  <li>Quiz 2</li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        2</span></span></li>
                 </ul>
               </td>
               <td>
@@ -265,7 +273,8 @@
               <td>3/4</td>
               <td>Lecture 7:<br>
                 <ul>
-                  <li>Quiz 3</li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        3</span></span></li>
                 </ul>
               </td>
               <td>
@@ -326,7 +335,8 @@
               <td>4/1</td>
               <td>Lecture 10:<br>
                 <ul>
-                  <li>Quiz 4</li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        4</span></span></li>
                 </ul>
               </td>
               <td>
@@ -335,6 +345,9 @@
                       draft of team song</a> lyrics in Google Doc shared with
                     lecture instructor (view only is fine).&nbsp; Submit URL to
                     doc via Blackboard assignment (Due 9am on Friday, 4/10) </li>
+                  <li><span style="  color: #333333;">Publish first draft of
+                      acceptance test documentation to GitHub repository</span><span
+                      style=" color: #333333;"> (Due 9am on Wednesday, 4/8)</span></li>
                 </ul>
               </td>
               <td><br>
@@ -366,8 +379,10 @@
               <td>4/15</td>
               <td>Lecture 12:<br>
                 <ul>
-                  <li>Quiz 5</li>
-                  <li>Final Team Website Review</li>
+                  <li>Final Team Website Review<span style="font-style: italic;"><span
+                        style="font-weight: bold;"></span></span></li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        5</span></span></li>
                 </ul>
               </td>
               <td>
