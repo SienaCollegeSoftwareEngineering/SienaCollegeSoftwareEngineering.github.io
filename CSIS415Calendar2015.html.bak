@@ -132,8 +132,6 @@
                   <li><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">MBTI
                       Workshop<br>
                     </span></li>
-                  <li><br>
-                  </li>
                 </ul>
               </td>
               <td>
@@ -201,8 +199,8 @@
               <td>2/4</td>
               <td>Lecture 4: <br>
                 <ul>
-                  <li>Workplace discrimination and harassment</li>
-                  <li>Copyright and Intellectual Property</li>
+                  <li>Guest Speaker: Workplace discrimination and harassment</li>
+                  <li>Detailed Design </li>
                 </ul>
               </td>
               <td>
@@ -230,7 +228,9 @@
               <td>2/11</td>
               <td>Lecture 5:<br>
                 <ul>
-                  <li><span style="font-style: italic;"><span style="font-weight: bold;">Quiz</span></span></li>
+                  <li>Teams Present (Informal) Logical Data Structures<span style="font-style: italic;"><span
+                        style="font-weight: bold;"></span></span></li>
+                  <li>Copyright and Intellectual Property</li>
                 </ul>
               </td>
               <td>
@@ -280,7 +280,8 @@
               <td>3/4</td>
               <td>Lecture 7:<br>
                 <ul>
-                  <li>Cloud Computing<span style="font-style: italic;"><span style="font-weight: bold;"><br>
+                  <li>Guest Speaker: Cloud Computing<span style="font-style: italic;"><span
+                        style="font-weight: bold;"><br>
                       </span></span></li>
                 </ul>
               </td>
@@ -321,7 +322,7 @@
               <td>3/23</td>
               <td>Lab 8: Wine Etiquette Seminar/Dinner </td>
               <td>3/25</td>
-              <td>Lecture 9:<br>
+              <td>Lab 3 Make-up:<br>
                 <ul>
                   <li>Alumnus Quest Speaker</li>
                 </ul>
