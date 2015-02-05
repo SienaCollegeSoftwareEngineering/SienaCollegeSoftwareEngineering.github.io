@@ -242,7 +242,11 @@
                     to doc via Blackboard assignment (Due 9am on Friday, 2/20) </li>
                 </ul>
               </td>
-              <td><br>
+              <td>
+                <ul>
+                  <li><span style="  color: #428bca;"><a target="_blank" href="http://users.csc.calpoly.edu/%7Ejdalbey/SWE/pdl_std.html">Pseudocode
+                        Guidelines</a></span> </li>
+                </ul>
               </td>
             </tr>
             <tr>
@@ -299,7 +303,7 @@
                 <ul>
                   <li>Maroon Solutions</li>
                   <li>SMARK Solutions</li>
-                  <li>MAKER Techologies</li>
+                  <li>MAKER Technologies</li>
                 </ul>
               </td>
               <td>3/11</td>
@@ -417,7 +421,13 @@
               <td>Lab 11: TBA<br>
               </td>
               <td>4/22</td>
-              <td><span style="font-weight: bold;">Acceptance Test PRESENTATIONS</span>
+              <td><span style="font-weight: bold;">Acceptance Test PRESENTATIONS</span><br>
+                <ul>
+                  <li>Omega Tech</li>
+                  <li>Seraphim</li>
+                  <li>MAKER Technologies</li>
+                </ul>
+                <br>
                 <ul>
                 </ul>
               </td>
@@ -434,7 +444,15 @@
             <tr>
               <td>4/27</td>
               <td><span style="font-weight: bold;"></span><span style="font-weight: bold;">Acceptance
-                  Test PRESENTATIONS</span></td>
+                  Test PRESENTATIONS<br>
+                </span>
+                <ul>
+                  <li>SMARK Solutions</li>
+                  <li>Maroon Solutions</li>
+                  <li>Nova Tech<span style=" font-weight: bold;"><br>
+                    </span></li>
+                </ul>
+              </td>
               <td><br>
               </td>
               <td><span style="font-weight: bold;"></span><br>
