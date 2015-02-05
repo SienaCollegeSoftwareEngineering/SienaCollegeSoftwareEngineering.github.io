@@ -251,8 +251,9 @@
               <td>2/18</td>
               <td>Lecture 6:<br>
                 <ul>
-                  <li><span style="font-style: italic;"><span style="font-weight: bold;"></span></span><br>
-                  </li>
+                  <li><span style="font-style: italic;"><span style="font-weight: bold;"></span></span><span
+                      style="font-style: italic;"><span style="font-weight: bold;">Quiz
+                        </span></span> </li>
                 </ul>
               </td>
               <td> <br>
@@ -293,9 +294,24 @@
             </tr>
             <tr>
               <td>3/9</td>
-              <td><span style="font-weight: bold;">Detailed Design PRESENTATIONS</span></td>
+              <td><span style="font-weight: bold;">Detailed Design PRESENTATIONS<br>
+                </span>
+                <ul>
+                  <li>Maroon Solutions</li>
+                  <li>SMARK Solutions</li>
+                  <li>MAKER Techologies</li>
+                </ul>
+              </td>
               <td>3/11</td>
-              <td><span style="font-weight: bold;">Detailed Design PRESENTATIONS</span></td>
+              <td><span style="font-weight: bold;">Detailed Design PRESENTATIONS<br>
+                </span>
+                <ul>
+                  <li>Seraphim</li>
+                  <li>Omega Tech</li>
+                  <li>Nova Tech<span style=" font-weight: bold;"><br>
+                    </span></li>
+                </ul>
+              </td>
               <td><br>
               </td>
               <td>
