@@ -319,7 +319,10 @@
               </td>
               <td>
                 <ul>
-                  <li> <a target="_blank" href="https://msdn.microsoft.com/en-us/library/bb924374.aspx">Stress
+                  <li><a target="_blank" href="https://msdn.microsoft.com/en-us/library/bb924372.aspx">Load-Testing
+                      Web Applications</a><br>
+                  </li>
+                  <li><a target="_blank" href="https://msdn.microsoft.com/en-us/library/bb924374.aspx">Stress
                       Testing Web Applications</a></li>
                 </ul>
               </td>
@@ -470,6 +473,8 @@
                   <li>Upload final version of documentation/presentations to
                     oraserv and add links to team website (Due 6pm on Monday,
                     4/27)</li>
+                  <li>Publish music video to team GitHub private repository.<br>
+                  </li>
                 </ul>
               </td>
               <td><br>
