@@ -213,7 +213,7 @@
               </td>
               <td>
                 <ul>
-                  <li> <a target="_blank" href="http://www.tutorialspoint.com/software_testing/testing_methods.htm">Software
+                  <li> <a target="_blank" href="http://www.tutorialspoint.com/software_testing/">Software
                       Testing Methods</a></li>
                   <li><a target="_blank" href="http://www.nationaljournal.com/health-care/obamacare-website-has-cost-840-million-20140730"><span
                         style="color: #428bca;">Obamacare Website Has Cost $840
@@ -304,7 +304,8 @@
               <td>3/4</td>
               <td>Lecture 7:<br>
                 <ul>
-                  <li>Guest Speaker: Cloud Computing<span style="font-style: italic;"><span
+                  <li>Cloud Computing<span style="font-style: italic;"><span style="font-weight: bold;"><br>
+                        - </span></span>Faculty Guest Speaker<span style="font-style: italic;"><span
                         style="font-weight: bold;"><br>
                       </span></span></li>
                 </ul>
@@ -316,7 +317,11 @@
                     Monday, 3/9)</li>
                 </ul>
               </td>
-              <td><br>
+              <td>
+                <ul>
+                  <li> <a target="_blank" href="https://msdn.microsoft.com/en-us/library/bb924374.aspx">Stress
+                      Testing Web Applications</a></li>
+                </ul>
               </td>
             </tr>
             <tr>
@@ -407,7 +412,7 @@
               <td>4/8</td>
               <td>Lecture 11:<br>
                 <ul>
-                  <li>Alumnus Quest Speaker</li>
+                  <li>Agile Development - Alumnus Guest Speaker</li>
                 </ul>
               </td>
               <td>
