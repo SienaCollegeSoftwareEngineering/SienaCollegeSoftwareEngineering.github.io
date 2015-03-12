@@ -371,8 +371,18 @@
               <td>3/16</td>
               <td>Lab 7: Stress Testing </td>
               <td>3/18</td>
-              <td> <span style="font-weight: bold;"></span>Lecture 8:</td>
-              <td><br>
+              <td> <span style="font-weight: bold;"></span>Lecture 8:<br>
+                <ul>
+                  <li>Guest Speaker?</li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li><a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1JvT9_c3S7ibZ9NlU-hfYGyIe5p5yM3-d-tSZr2ceSf4/edit?usp=sharing">Review
+                      Acceptance Test Document Outline</a></li>
+                  <li><a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1j11pJKdvmnoz_o0Jd1H9j8kv3CSssmEZUKNMPhmpPKU/edit?usp=sharing">Review
+                      Acceptance Test Presentation Outline</a></li>
+                </ul>
               </td>
               <td><br>
               </td>
