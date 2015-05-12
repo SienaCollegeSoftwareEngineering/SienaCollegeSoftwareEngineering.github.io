@@ -9,10 +9,10 @@
     <link rel="shortcut icon" href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
     <title>Siena Software Engineering - Computer Science Department</title>
     <!-- Bootstrap core CSS -->
-    <link href="CSIS415Calendar2015_files/bootstrap.css" rel="stylesheet">
+    <link href="Calendar_files/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="CSIS415Calendar2015_files/se2014.css" rel="stylesheet">
-    <link href="CSIS415Calendar2015_files/font-awesome.css" rel="stylesheet">
+    <link href="Calendar_files/se2014.css" rel="stylesheet">
+    <link href="Calendar_files/font-awesome.css" rel="stylesheet">
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-114-precomposed.png">
@@ -1058,8 +1058,6 @@ evaluation
         </table>
       </div>
       <br>
-      
-     
       <footer>
         <p>© Meg Fryling 2014</p>
       </footer>
@@ -1068,7 +1066,7 @@ evaluation
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="CSIS415Calendar2015_files/jquery.js"></script>
-    <script src="CSIS415Calendar2015_files/bootstrap.js"></script>
+    <script src="Calendar_files/jquery.js"></script>
+    <script src="Calendar_files/bootstrap.js"></script>
   </body>
 </html>
