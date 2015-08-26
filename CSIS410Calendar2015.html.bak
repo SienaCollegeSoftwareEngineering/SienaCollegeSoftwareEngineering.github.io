@@ -27,19 +27,17 @@
         <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html"><i
-              class="fa fa-home"></i>&nbsp; Home</a> </div>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
+            Home</a> </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="calendars.html"><i class="fa fa-calendar"></i>&nbsp;Course
-                Calendar</a></li>
-            <li><a href="teams.html"><i class="fa fa-file"></i>&nbsp;Team
-                Websites</a></li>
+            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
+            <li><a href="teams.html">&nbsp;Team Websites</a></li>
             <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
                 Links</a></li>
             <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
-            <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
-                Siena College</a></li>
+            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
+                College</a></li>
           </ul>
         </div>
       </div>
@@ -67,30 +65,35 @@
               <!-- Month -->
               <td>9/8</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
-                Course Overview
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:&nbsp;
                 <ul>
-                  <li>Course Structure</li>
-                  <li>Lab Structure</li>
-                  <li>Project Management </li>
-                  <ul>
-                    <li>The Project Lifecycle</li>
-                    <li>Initiating Phase</li>
-                  </ul>
-                  <li>Email and Voicemail Etiquette</li>
+                  <li>Course Overview</li>
                   <li>Meet the clients </li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>9/10</td>
-              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
-                <br>
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="font-weight: bold; text-decoration: underline;">Lab: </span><br>
+                <ul>
+                  <li>Professional Life Preparation</li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
+                  <li>Self-organize Teams </li>
+                  <ul>
+                    <li>4 total teams</li>
+                    <li>4-6 members each team<br>
+                      <span style="font-style: italic;">Note: All team members
+                        must be in the same lab.&nbsp; You may switch lab
+                        sections to accommodate.</span></li>
+                  </ul>
+                  <li>Email team name and team members' names to Dr. Fryling by
+                    4pm on Thursday, 9/10</li>
                 </ul>
               </td>
               <td>
@@ -99,6 +102,15 @@
                       href="http://informatique.umons.ac.be/genlog/SE/SE-contents.html">IEEE</a>/<a
                       href="http://en.wikipedia.org/wiki/Friedrich_L._Bauer">Bauer</a>/<a
                       href="http://www.quora.com/Software-Engineering">Other</a></li>
+                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/SE%20Team%20Structures.ppt">Models
+for
+                      Team Organization/Structure (ppt)</a></li>
+                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"><em>Classic</em>
+                      Waterfall Model</a></li>
+                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1Dy1HjwaiTZoi2hKz68GQ4FXxrBufY27t_2stoBNs3FU/edit?usp=sharing">Components
+                      of the Solution Strategy - a modified Waterfall Model</a></li>
+                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/index.htm">Spiral
+                      Model, Software Prototype Model, Agile Model </a></li>
                   <li><a href="http://www.dailywritingtips.com/email-etiquette/">E-mail
                       etiquette</a> - <a href="http://www.emailreplies.com/">Email
                       replies</a></li>
@@ -137,24 +149,21 @@
               <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
                 <ul>
+                  <li>Development Environments</li>
+                </ul>
+                <ul>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
+                  <li>Bid for jobs - to Dr. Fryling by 4pm on Thursday, 9/17</li>
+                  <li>Select Scrum Master - to Dr. Fryling by 4pm on Thursday,
+                    9/17</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/SE%20Team%20Structures.ppt">Models
-for
-                      Team Organization/Structure (ppt)</a></li>
-                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"><em>Classic</em>
-                      Waterfall Model</a> (and, how our model differs)</li>
-                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1Dy1HjwaiTZoi2hKz68GQ4FXxrBufY27t_2stoBNs3FU/edit?usp=sharing">Components
-                      of the Solution Strategy - a modified Waterfall Model</a></li>
-                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/index.htm">Spiral
-                      Model, Software Prototype Model, Agile Model </a></li>
                   <li><a href="http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/avoid-the-top-10-resume-mistakes/article.aspx">Avoid
                       the Top 10 Resume Mistakes </a></li>
                   <li><a target="_blank" href="http://mashable.com/2014/10/20/resume-first-glance/?utm_cid=mash-com-fb-main-link">8
@@ -180,14 +189,6 @@ for
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li><a target="_blank" href="https://docs.google.com/a/siena.edu/presentation/d/1HK7fonfBCZzydniaydTJnLNHyyi1cb0eiiXvG-ufPao/edit?usp=sharing">Presentations</a>
-                    and <a target="_blank" href="https://docs.google.com/a/siena.edu/spreadsheets/d/1BKwXfJMqFMkKmZkL42M6P6nG8vCl-B3BBHCkAJJkjZk/edit?usp=sharing">Team
-                      websites</a></li>
-                  <li>Software Estimation</li>
-                  <li>Development Environment</li>
-                  <li>Collaboration</li>
-                  <li>Prototype and Spiral Models</li>
-                  <li>Life after Siena</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -198,7 +199,12 @@ for
                 </ul>
               </td>
               <!-- Lab -->
-              <td> <br>
+              <td>
+                <ul>
+                  <li> Meet with Clients</li>
+                  <li> Develop Project Backlog</li>
+                  <li>Sprint 1 Planning Meeting - Develop Sprint Backlog</li>
+                </ul>
               </td>
               <td>
                 <ul>
@@ -219,34 +225,19 @@ for
             </tr>
             <tr>
               <!-- Month -->
-              <td>9/23</td>
+              <td>9/29</td>
               <!-- Day -->
-              <td> <strong><span style="text-decoration: underline;">PRESENTATIONS</span>:Software
-                  Plan</strong><br>
-                <ul>
-                  <li>All students must present </li>
-                  <li>Clients should be invited but are not required to attend</li>
-                  <li>Business formal attire is required for all team members</li>
-                  <li>Deliverables,<span style="color: #428bca;"> </span><a target="_blank"
-                      href="https://docs.google.com/a/siena.edu/spreadsheets/d/1aYq4eqUwJpoeVv9RC8OtNBFr0CLcFM48H1u07Mvq1qY/edit?usp=sharing">Presentation</a>,
-                    and Team website: 5% of final grade</li>
-                  <li>Team and individual pictures will be taken</li>
-                </ul>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
               </td>
               <!--Lecture -->
-              <td>9/25</td>
+              <td>10/1</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
-                <ul>
-                </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul class="style44">
-                  <ol>
-                  </ol>
-                  <ol>
-                  </ol>
+                  <li>Begin Sprint 1</li>
                 </ul>
               </td>
               <td>
@@ -281,7 +272,7 @@ Requirements
             </tr>
             <tr>
               <!-- Month -->
-              <td>9/30</td>
+              <td>10/6</td>
               <!-- Day -->
               <td>
                 <p><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
@@ -294,44 +285,26 @@ Requirements
                 </ul>
               </td>
               <!--Lecture -->
-              <td>10/2</td>
+              <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
-              <td> <br>
+              <td>
+                <ul>
+                  <li> Work on Sprint 1</li>
+                </ul>
               </td>
               <td>
                 <ul>
-                  <li><a target="_blank" href="http://www.forbes.com/sites/glassheel/2012/06/14/be-a-healthy-leader-master-the-art-of-delegation/">Be
-                      A Healthy Leader, Master The Art Of Delegation</a></li>
-                  <li><a href="http://www.devtich.com/interview-questions-developer/">IT
-                      Interviews</a></li>
-                  <li><a target="_blank" href="https://drive.google.com/a/siena.edu/file/d/0B8xJjxsbUoMDT3MyZVRNQ204TXM/edit?usp=sharing">Common
-                      Interview Questions for Computer Science &amp; Innovation
-                      and Software Engineering Majors </a></li>
-                  <li>Job-Interview Mistakes <a href="http://www.quintcareers.com/interview_mistakes.html">List
-                      1</a>; <a href="http://jobsearch.about.com/od/interviewsnetworking/a/interviewblund.htm">List
-                      2</a>; <a href="http://lifehacker.com/the-biggest-interview-mistakes-hr-experts-see-and-how-511186830">List
-                      3</a>; <a href="http://career-advice.monster.com/job-interview/interview-preparation/six-interview-mistakes/article.aspx">List
-                      4</a></li>
-                  <li><a href="http://spot.colorado.edu/%7Ekozar/DFDtechnique.html">Data
-Flow
-                      Diagrams</a> (a <a href="http://en.wikipedia.org/wiki/Structured_Systems_Analysis_and_Design_Methodology">SSADM
-                      technique</a>)</li>
-                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/document/d/1iUv6UgBzuy8nx1brvSxrnsYYvolahV4XdeUUV-oYu0o/edit?usp=sharing"
-                      href="https://docs.google.com/a/siena.edu/document/d/1iUv6UgBzuy8nx1brvSxrnsYYvolahV4XdeUUV-oYu0o/edit?usp=sharing">DFD
-                      Mini-Specs</a></li>
-                  <li>Check the <a href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/links.html">Links
-                      Page</a> for DFD information</li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>10/7</td>
+              <td>10/13</td>
               <!-- Day -->
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
@@ -339,136 +312,136 @@ Flow
                 </ul>
               </td>
               <!--Lecture -->
-              <td>10/9</td>
+              <td>10/15</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
+                <ul>
+                  <li>Presentation Preparation</li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
-              <td> <br>
+              <td>
+                <ul>
+                  <li> Work on Sprint 1</li>
+                </ul>
               </td>
               <td>
                 <ul>
-                  <li><a href="http://www.smartdraw.com/resources/tutorials/context-diagrams/#/resources/tutorials/Introduction-to-DFD">Introduction
-                      to DFDs - SmartDraw Tutorial</a></li>
-                  <li><a href="http://mashable.com/2014/10/07/airport-test-interview/">How
-                      to Really Ace the Interview? Pass the 'Airport Test'</a></li>
-                  <li><a href="http://mashable.com/2014/10/03/bad-usb/">BadUSB
-                      Can Turn Thumb Drives Into Cyberweapons</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>10/14</td>
+              <td>10/20</td>
               <!-- Lab -->
               <!-- Day -->
-              <td><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
+                <ul>
+                  <li>Overview of Sprint Review Meetings</li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!--Lecture -->
-              <td>10/16</td>
+              <td>10/22</td>
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                 </ul>
               </td>
               <td>
                 <ul>
+                  <li>Finish Sprint 1</li>
+                  <li>Sprint 1 Review Meeting (with customer if they are unable
+                    to attend class)</li>
+                  <li>Submit Spring 1 teammate evaluations </li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li><a href="http://www.smartdraw.com/resources/tutorials/context-diagrams/#/resources/tutorials/Introduction-to-DFD">Introduction
-                      to DFDs - SmartDraw Tutorial</a></li>
+                  <li><a target="_blank" href="http://scrumtrainingseries.com/SprintRetrospectiveMeeting/SprintRetrospectiveMeeting.htm">Sprint
+                      Retrospective Meeting</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>10/21</td>
+              <td>10/27</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:&nbsp;
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+                <br>
+                <ul>
+                  <li>Sprint 1 Review Meeting (for class and client, if
+                    available)</li>
+                  <li>Overview of Backlog Refinement and Retrospective Meetings</li>
+                  <li>Safety Check Demo </li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!--Lecture -->
-              <td>10/23</td>
+              <td>10/29</td>
               <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
+                <ul>
+                  <li>Backlog Refinement Meeting</li>
+                  <li>Sprint 1 Retrospective Meeting</li>
+                  <ul>
+                    <li>Safety Check</li>
+                  </ul>
+                  <ul>
+                    <li>What went well?</li>
+                    <li>What can be improved?</li>
+                  </ul>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
+                  <li>Sprint 2 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li>Mock Interview Preparation</li>
-                  <ul>
-                    <li>Read the email instructions from Dr. Lim</li>
-                  </ul>
-                  <ul>
-                    <li>Read job posting - check out company website</li>
-                  </ul>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>10/28</td>
+              <td>11/3</td>
               <!-- Day -->
               <td> <strong><span style="text-decoration: underline;"></span></strong><span
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
               </td>
               <!--Lecture -->
-              <td>10/30</td>
-              <td> <br>
+              <td>11/5</td>
+              <td> <span style="font-style: italic;">No Lab - Work on projects
+                </span>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
-                  <ul>
-                  </ul>
+                  <li>Begin Sprint 2</li>
                 </ul>
               </td>
-              <td>
+              <td> <br>
                 <ul>
-                  <li><a target="_blank" href="http://www.cs.ny.gov/pstit/announ.cfm">NYS
-                      Civil Service - Information Technology Specialist</a></li>
-                  <strong> </strong><strong>
-                    <li><span style="font-weight: normal;"><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/021%20Nadler%27s%20Good%20Contract.htm">Nadler's
-                          Contract</a></span></li>
-                    <span style="font-weight: normal;"> </span>
-                    <li><span style="font-weight: normal;"><a href="http://en.wikipedia.org/wiki/Independent_contractor">Independent
-                          Contractor</a></span></li>
-                    <span style="font-weight: normal;"> </span>
-                    <ul>
-                      <span style="font-weight: normal;"> </span>
-                      <li><span style="font-weight: normal;"><a href="http://legal.uncc.edu/indycontract.html">Independent
-Contractor
-                            Checklist</a></span></li>
-                      <span style="font-weight: normal;"> </span>
-                      <li><span style="font-weight: normal;"><a target="_blank"
-                            href="http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Self-Employed-Individuals-Tax-Center">Self-Employed
-                            IRS Information</a></span></li>
-                    </ul>
-                  </strong>
+                  <strong></strong>
                 </ul>
                 <strong> </strong></td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>11/4</td>
+              <td>11/10</td>
               <!-- Day -->
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
@@ -476,15 +449,18 @@ Contractor
                 </ul>
               </td>
               <!--Lecture -->
-              <td>11/6</td>
+              <td>11/12</td>
               <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-                  style="font-weight: bold; text-decoration: underline;">Lab</span>:
-                <br>
+                  style="font-weight: bold; text-decoration: underline;">Lab:</span><span
+                  style="font-weight: bold;"></span> <br>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
-              <td><br>
+              <td>
+                <ul>
+                  <li>Work on Sprint 2 </li>
+                </ul>
               </td>
               <td>
                 <ul>
@@ -492,33 +468,6 @@ Contractor
                   </ul>
                   <ul>
                   </ul>
-                  <li>Data Dictionary (Our Style)</li>
-                  <ul>
-                    <li><a href="http://www.cdpr.ca.gov/docs/enforce/residue/datadict.htm"
-                        target="_blank">Data Dictionary - spreadsheet - verbose
-                        entries</a></li>
-                  </ul>
-                  <ul>
-                    <li><a href="http://irsa.ipac.caltech.edu/applications/DDGEN/Doc/dd_tbl.html"
-                        target="_blank">Data Dictionary - format explained for
-                        real example</a></li>
-                  </ul>
-                  <li>Data Dictionary (Other Styles)</li>
-                  <ul>
-                    <li><a href="http://www.umsl.edu/%7Esauterv/analysis/dfd/DATA_DIC.HTM"
-                        target="_blank">Data Dictionary - full form</a></li>
-                    <li><a href="http://www.bcarter.com/tip039.htm">Data
-                        Dictionary - form - DBMS table - ERD</a></li>
-                  </ul>
-                  <li><a href="http://www.codeplex.com/datadictionary" target="_blank">DD
-                      Creator application - database definition</a></li>
-                  <ul>
-                  </ul>
-                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/Unit%20Tests%20-%20Crude%20Template.xlsx"
-                      target="_blank">Example Unit Test Sample <br>
-                    </a></li>
-                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1csAzAGVI7wLbTXoRBAgF-JREgTpAu3xluvdTdnivypg/edit?usp=sharing"
-                      target="_blank">Documentation Guidelines for Agile Teams</a></li>
                   <ul>
                   </ul>
                 </ul>
@@ -527,7 +476,7 @@ Contractor
             </tr>
             <tr>
               <!-- Month -->
-              <td>11/11</td>
+              <td>11/17</td>
               <!-- Day -->
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
@@ -535,43 +484,36 @@ Contractor
                 </ul>
               </td>
               <!--Lecture -->
-              <td>11/13</td>
-              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
+              <td>11/19</td>
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:<br>
+                <ul>
+                  <li>Alumni Guest Speakers</li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
-              <td> <br>
+              <td>
+                <ul>
+                  <li> Work on Sprint 2</li>
+                </ul>
               </td>
               <td>
                 <ul>
-                  <li><a target="_blank" href="https://www.cs.umd.edu/users/ben/goldenrules.html">Eight
-Golden
-                      Rules for User Interface Design</a></li>
-                  <li><a target="_blank" href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
-Usability
-                      Heuristics</a></li>
-                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
-                        style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
-                  <li><a target="_blank" href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
-                      Interface Design Tips, Techniques, and Principles</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>11/18</td>
+              <td>11/24</td>
               <!-- Day -->
               <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
               </td>
               <!--Lecture -->
-              <td>11/20</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"><span
-                    style="font-weight: bold; text-decoration: underline;"><span
-                      style="font-weight: bold; text-decoration: underline;">Lab</span>:
-                  </span> </span>
+              <td>11/26</td>
+              <td><strong>Thanksgiving – NO CLASSES </strong>
                 <ul>
                 </ul>
                 <br>
@@ -579,32 +521,39 @@ Usability
               <!-- Lab -->
               <td>
                 <ul>
+                  <li>Work on Sprint 2</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li><a target="_blank" href="http://www.goodexperience.com/tib/archives/webtech/">This
-                      Is Broken</a></li>
-                  <li><a target="_blank" href="http://www.masternewmedia.org/news/2005/04/17/bad_user_interface_design_can.htm">Bad
-                      User Interface Design Can Be Deadly</a></li>
-                  <li><a target="_blank" href="http://www.cracked.com/article_19776_6-disasters-caused-by-poorly-designed-user-interfaces.html#ixzz3Kqi3ZGmt">6
-                      Disasters Caused by Poorly Designed User Interfaces </a></li>
-                  <li><a target="_blank" href="http://www.usernomics.com/user-interface-design.html">Usernomics</a></li>
+                </ul>
+              </td>
+              <td>
+                <ul>
                 </ul>
               </td>
             </tr>
             <tr>
-              <td>11/25</td>
+              <td>12/1</td>
               <!-- Day -->
-              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:
-                </span>
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
+                </span><br>
                 <ul>
                 </ul>
               </td>
               <!--Lecture -->
-              <td>11/27</td>
-              <td><strong>Thanksgiving – NO CLASSES </strong></td>
+              <td>12/3</td>
+              <td><strong><span style="text-decoration: underline;">Lab</span>:</strong><br>
+              </td>
               <!-- Lab -->
+              <td>
+                <ul>
+                  <li>Finish Sprint 2</li>
+                  <li>Sprint 2 Review Meeting (with customer if they are unable
+                    to attend class)</li>
+                  <li>Submit Spring 2 teammate evaluations </li>
+                </ul>
+              </td>
               <td>
                 <ul>
                   <ul>
@@ -616,33 +565,29 @@ Usability
               <!-- Assignments/Readings -->
             </tr>
             <tr>
-              <!-- Month -->
-              <td>12/2</td>
-              <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td>12/8</td>
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
+                </span>
                 <ul>
+                  <li>Sprint 2 Review Meeting (for class and client, if
+                    available)</li>
+                  <li>Overview of Backlog Refinement and Retrospective Meetings</li>
                 </ul>
               </td>
-              <!--Lecture -->
-              <td>12/4</td>
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lab</span>:
+              <td>12/10<br>
               </td>
-              <!-- Lab -->
-              <td>
-                <ul>
-                </ul>
+              <td><strong>Final Exams - NO CLASSES</strong> </td>
+              <td><br>
               </td>
-              <td>
-                <ul>
-                </ul>
+              <td><br>
               </td>
-              <!-- Assignments/Readings -->
             </tr>
             <tr>
               <!-- Month -->
-              <td>12/12</td>
+              <td><strong>TBA</strong></td>
               <!-- Day -->
-              <td> <strong>Final Exam TBA</strong></td>
+              <td> <strong>Final Exam <br>
+                </strong></td>
               <!--Lecture -->
               <td><br>
               </td>
