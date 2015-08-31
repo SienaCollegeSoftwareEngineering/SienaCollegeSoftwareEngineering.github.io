@@ -24,7 +24,8 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
@@ -73,7 +74,8 @@
               </td>
               <!--Lecture -->
               <td>9/10</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lab: </span><br>
                 <ul>
                   <li>Professional Life Preparation</li>
@@ -98,31 +100,11 @@
               </td>
               <td>
                 <ul>
-                  <li>Definitions: Software Engineering - <a href="http://sites.computer.org/ccse/SE2004Volume.pdf">ACM</a>/<a
-                      href="http://informatique.umons.ac.be/genlog/SE/SE-contents.html">IEEE</a>/<a
-                      href="http://en.wikipedia.org/wiki/Friedrich_L._Bauer">Bauer</a>/<a
-                      href="http://www.quora.com/Software-Engineering">Other</a></li>
-                  <li><a href="http://www.cs.siena.edu/%7Elederman/SoftEng/SE%20Team%20Structures.ppt">Models
-for
-                      Team Organization/Structure (ppt)</a></li>
                   <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"><em>Classic</em>
                       Waterfall Model</a></li>
-                  <li><a href="https://docs.google.com/a/siena.edu/document/d/1Dy1HjwaiTZoi2hKz68GQ4FXxrBufY27t_2stoBNs3FU/edit?usp=sharing">Components
-                      of the Solution Strategy - a modified Waterfall Model</a></li>
                   <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/index.htm">Spiral
                       Model, Software Prototype Model, Agile Model </a></li>
-                  <li><a href="http://www.dailywritingtips.com/email-etiquette/">E-mail
-                      etiquette</a> - <a href="http://www.emailreplies.com/">Email
-                      replies</a></li>
-                  <li>Phone &amp; <a href="http://artofmanliness.com/2008/04/22/how-to-leave-the-perfect-voicemail/">Voicemail</a>
-                    etiquette</li>
-                  <li><a href="http://jobsearch.about.com/od/interviewattire/a/interviewdress.htm">How
-                      to Dress for an Interview</a></li>
-                  <li><a href="http://smallbusiness.chron.com/dos-donts-proper-business-dress-20215.html">Do's
-                      &amp; Don'ts of Proper Business Dress</a></li>
-                  <li><a target="_top" href="https://www.linkedin.com/today/post/article/20130730175229-37102839-why-leaders-avoid-virtual-meetings">Why
-                      Leaders Avoid Virtual Meetings</a><br>
-                  </li>
+                  <br>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -138,10 +120,8 @@ for
                     Phases</li>
                   <li><a target="_blank" href="http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm">Software
                       Development Life Cycle (SDLC)</a></li>
-                  <li>Client Meetings</li>
-                  <li><a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1f2blWQPTMfzRi8QflNeaJjhkWnIr7g2WDBW2U1p2Ihs/edit?usp=sharing">Software
-                      Plan (Problem Definition, Project Plan,
-                      Components/Outline)</a></li>
+                  <li>Agile/SCRUM</li>
+                  <li>Test Driven Development</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -164,20 +144,7 @@ for
               </td>
               <td>
                 <ul>
-                  <li><a href="http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/avoid-the-top-10-resume-mistakes/article.aspx">Avoid
-                      the Top 10 Resume Mistakes </a></li>
-                  <li><a target="_blank" href="http://mashable.com/2014/10/20/resume-first-glance/?utm_cid=mash-com-fb-main-link">8
-                      Things Recruiters Notice About Your Resume at First Glance
-                      (and 4 Things That Don't Matter) </a></li>
-                  <li><a href="http://www.businessinsider.com/excellent-resume-for-recent-grad-2014-7">8
-                      Reasons This Is An Excellent Resume For A Recent College
-                      Graduate</a></li>
-                  <li><a href="http://www.snagajob.com/resources/whats-my-tattoopiercinghairstyle-got-to-do-with-it/"><span
-                        style="color: #428bca;">What’s my
-                        tattoo/piercing/hairstyle got to do with it?</span></a></li>
-                  <li><span style=" color: #428bca;"><a href="http://www.workingworld.com/articles/tattoos-and-piercings-in-the-workplace">Tattoos
-                        and Piercings in the Workplace</a><br>
-                    </span></li>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -189,6 +156,11 @@ for
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>Project Charter</li>
+                  <li>User Stories</li>
+                  <li>Project Backlog</li>
+                </ul>
+                <ul>
                 </ul>
               </td>
               <!--Lecture -->
@@ -196,29 +168,21 @@ for
               <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
                   <li> Meet with Clients</li>
-                  <li> Develop Project Backlog</li>
-                  <li>Sprint 1 Planning Meeting - Develop Sprint Backlog</li>
+                  <li>Develop Project Charter<br>
+                  </li>
+                  <li>Develop Project Backlog</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li><a target="_blank" href="http://www.webpagesthatsuck.com/worst-websites-of-2013.html">Worst
-                      Websites of 2013</a></li>
-                  <li><a href="http://money.usnews.com/money/careers/articles/2012/07/12/10-tips-for-new-managers">10
-                      Tips for New Managers</a></li>
-                  <li><a href="http://www.greatleadershipbydan.com/2012/10/25-tips-for-new-managers.html">25
-                      Tips for New Managers</a></li>
-                  <li><a href="http://sethgodin.typepad.com/seths_blog/2014/07/project-management-for-work-that-matters.html">Project
-                      management for work that matters&nbsp;</a></li>
-                  <li><a href="http://www.poynter.org/how-tos/leadership-management/what-great-bosses-know/260473/4-ways-to-be-seen-as-a-leader-even-when-youre-not-in-charge/">Four
-                      ways to be seen as a leader, even when you’re not in
-                      charge</a></li>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -227,45 +191,30 @@ for
               <!-- Month -->
               <td>9/29</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
+                <ul>
+                  <li>Sprint Planning Meetings</li>
+                  <li>Daily Scrum</li>
+                </ul>
               </td>
               <!--Lecture -->
               <td>10/1</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
+                <ul>
+                  <li>TBA</li>
+                </ul>
                 <br>
               </td>
               <!-- Lab -->
               <td>
                 <ul class="style44">
-                  <li>Begin Sprint 1</li>
+                  <li>Develop Project Backlog</li>
+                  <li>Sprint 1 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
               <td>
                 <ul class="style44">
-                  <li>Use Case narratives - <a href="http://danieldyba.com/blog/2012/01/19/writing-my-first-usage-narrative">Usage
-                      Narratives</a></li>
-                  <li><a target="_blank" title="https://docs.google.com/a/siena.edu/presentation/d/1Zw9dMF4v_39zV541kAmdSe16gFkOg-Go9cBQSPaxN1E/edit?usp=sharing"
-                      href="https://docs.google.com/a/siena.edu/presentation/d/1Zw9dMF4v_39zV541kAmdSe16gFkOg-Go9cBQSPaxN1E/edit?usp=sharing">Use
-                      Case Modeling</a></li>
-                  <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-reference.html">Use
-                      Case Diagrams Reference</a></li>
-                  <ul>
-                    <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-extend.html">UML
-                        Use Case Extend</a></li>
-                    <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-include.html">UML
-                        Use Case Include</a></li>
-                  </ul>
-                  <li><a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1pLMW6r32CbGqIRfqHSEHRuoErn8GsBHbO_Lfw7hyC30/edit?usp=sharing">Software
-Requirements
-                      Outline Specifications</a></li>
-                  <li><a href="http://www.comptechdoc.org/independent/uml/begin/umlusecase.html">UML
-Use
-                      Case Diagram</a></li>
-                  <li><a href="http://en.wikipedia.org/wiki/Requirements_analysis#Contract-style_requirement_lists">Functional
-Requirements
-                      Inventory</a></li>
-                  <li><a href="http://en.wikipedia.org/wiki/Non-functional_requirement">Non-Functional
-                      Requirements</a></li>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -278,6 +227,7 @@ Requirements
                 <p><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 </p>
                 <ul>
+                  <li>Guest Speakers (Tentative)</li>
                 </ul>
                 <p><br>
                 </p>
@@ -288,16 +238,18 @@ Requirements
               <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
-                  <li> Work on Sprint 1</li>
+                  <li> Begin on Sprint 1</li>
                 </ul>
               </td>
               <td>
                 <ul>
+                  <li>TBA</li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
@@ -309,6 +261,7 @@ Requirements
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -316,7 +269,7 @@ Requirements
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
                 <ul>
-                  <li>Presentation Preparation</li>
+                  <li>TBA</li>
                 </ul>
                 <ul>
                 </ul>
@@ -329,6 +282,7 @@ Requirements
               </td>
               <td>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -342,21 +296,17 @@ Requirements
                 <ul>
                   <li>Overview of Sprint Review Meetings</li>
                 </ul>
-                <ul>
-                </ul>
               </td>
               <!--Lecture -->
               <td>10/22</td>
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li>Finish Sprint 1</li>
-                  <li>Sprint 1 Review Meeting (with customer if they are unable
-                    to attend class)</li>
-                  <li>Submit Spring 1 teammate evaluations </li>
+                  <li>Work on Sprint 1</li>
                 </ul>
               </td>
               <td>
@@ -403,11 +353,15 @@ Requirements
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Sprint 2 Planning Meeting - Develop Sprint Backlog</li>
+                  <li>Finish Sprint 1</li>
+                  <li>Sprint 1 Review Meeting (with customer if they are unable
+                    to attend class)</li>
+                  <li>Submit Spring 1 teammate evaluations </li>
                 </ul>
               </td>
               <td>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -416,25 +370,32 @@ Requirements
               <!-- Month -->
               <td>11/3</td>
               <!-- Day -->
-              <td> <strong><span style="text-decoration: underline;"></span></strong><span
+              <td> <strong><span style="text-decoration: underline;"></span></strong><span
+
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+                <ul>
+                  <li>TBA</li>
+                </ul>
               </td>
               <!--Lecture -->
               <td>11/5</td>
-              <td> <span style="font-style: italic;">No Lab - Work on projects
+              <td> <span style="font-style: italic;">No Formal Lab:<br>
                 </span>
+                <ul>
+                  <li>Sprint 2 Planning Meeting - Develop Sprint Backlog </li>
+                </ul>
                 <ul>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Begin Sprint 2</li>
+                  <li>Sprint 2 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
               <td> <br>
                 <ul>
-                  <strong></strong>
+                  <li>TBA</li>
                 </ul>
                 <strong> </strong></td>
               <!-- Assignments/Readings -->
@@ -446,30 +407,29 @@ Requirements
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>11/12</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-                  style="font-weight: bold; text-decoration: underline;">Lab:</span><span
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+
+                  style="font-weight: bold; text-decoration: underline;">Lab:</span><span
+
                   style="font-weight: bold;"></span> <br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Work on Sprint 2 </li>
+                  <li> Begin Sprint 2</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <ul>
-                  </ul>
-                  <ul>
-                  </ul>
-                  <ul>
-                  </ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -481,6 +441,7 @@ Requirements
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -500,6 +461,7 @@ Requirements
               </td>
               <td>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -508,8 +470,12 @@ Requirements
               <!-- Month -->
               <td>11/24</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+                <ul>
+                  <li>TBA</li>
+                </ul>
               </td>
               <!--Lecture -->
               <td>11/26</td>
@@ -526,26 +492,54 @@ Requirements
               </td>
               <td>
                 <ul>
-                </ul>
-              </td>
-              <td>
-                <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
             </tr>
             <tr>
               <td>12/1</td>
               <!-- Day -->
-              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:
                 </span><br>
                 <ul>
+                  <li>TBA</li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>12/3</td>
               <td><strong><span style="text-decoration: underline;">Lab</span>:</strong><br>
+                <ul>
+                  <li>TBA</li>
+                </ul>
               </td>
               <!-- Lab -->
+              <td>
+                <ul>
+                  <li>Work on Sprint 2</li>
+                </ul>
+              </td>
+              <!-- Assignments/Readings -->
+              <td>
+                <ul>
+                  <li>TBA</li>
+                </ul>
+              </td>
+            </tr>
+            <tr>
+              <td>12/8</td>
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
+                </span>
+                <ul>
+                  <li>TBA</li>
+                </ul>
+              </td>
+              <td>12/10<br>
+              </td>
+              <td><strong></strong> <strong><span style="text-decoration: underline;">Lab</span>:</strong>
+                <ul>
+                  <li>TBA</li>
+                </ul>
+              </td>
               <td>
                 <ul>
                   <li>Finish Sprint 2</li>
@@ -556,17 +550,15 @@ Requirements
               </td>
               <td>
                 <ul>
-                  <ul>
-                  </ul>
+                  <li>TBA</li>
                 </ul>
               </td>
-              <td> <br>
-              </td>
-              <!-- Assignments/Readings -->
             </tr>
             <tr>
-              <td>12/8</td>
-              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
+              <!-- Month -->
+              <td>12/14</td>
+              <!-- Day -->
+              <td> <span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
                 </span>
                 <ul>
                   <li>Sprint 2 Review Meeting (for class and client, if
@@ -574,25 +566,12 @@ Requirements
                   <li>Overview of Backlog Refinement and Retrospective Meetings</li>
                 </ul>
               </td>
-              <td>12/10<br>
-              </td>
-              <td><strong>Final Exams - NO CLASSES</strong> </td>
-              <td><br>
-              </td>
-              <td><br>
-              </td>
-            </tr>
-            <tr>
-              <!-- Month -->
-              <td><strong>TBA</strong></td>
-              <!-- Day -->
-              <td> <strong>Final Exam <br>
-                </strong></td>
               <!--Lecture -->
               <td><br>
               </td>
-              <td> <br>
-              </td>
+              <td> <strong>Final Exams - NO CLASSES<br>
+                  Final Exam Date TBA<br>
+                </strong> </td>
               <!-- Lab -->
               <td><br>
               </td>
