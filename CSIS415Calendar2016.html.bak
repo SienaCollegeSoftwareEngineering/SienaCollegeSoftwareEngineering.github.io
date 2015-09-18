@@ -27,17 +27,19 @@
         <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
-            Home</a> </div>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html"><i
+              class="fa fa-home"></i>&nbsp; Home</a> </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
-            <li><a href="teams.html">&nbsp;Team Websites</a></li>
+            <li><a href="calendars.html"><i class="fa fa-calendar"></i>&nbsp;Course
+                Calendar</a></li>
+            <li><a href="teams.html"><i class="fa fa-file"></i>&nbsp;Team
+                Websites</a></li>
             <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
                 Links</a></li>
             <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
-            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
-                College</a></li>
+            <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
+                Siena College</a></li>
           </ul>
         </div>
       </div>
@@ -68,26 +70,57 @@
           </thead>
           <tbody>
             <tr>
-              <td>1/19<br>
+              <td>1/12<br>
               </td>
               <td> <span style="font-weight: bold; text-decoration: underline;"></span>Lecture
                 1: <br>
                 <ul>
                   <li>Welcome back!</li>
+                  <li> Semester Overview</li>
+                  <li>Detailed Design</li>
+                  <li>Managing Client Expectations</li>
+                  <li>Scope Creep</li>
+                  <li>Team Dynamics</li>
                 </ul>
               </td>
-              <td>1/21<br>
+              <td>1/14<br>
               </td>
               <td><span style="font-weight: bold; text-decoration: underline;"></span>Lab
-                1:&nbsp; </td>
+                1: Brook's Law </td>
               <td>
                 <ul>
-                  <li><span style=" color: #333333;">TBA</span><span style=" color: #333333;"></span></li>
+                  <li>Review <a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1O6LZ7DKwOI5BGBResl6obYCCqy5lhAEUQzm9S5XRrhI/edit?usp=sharing">course
+                      syllabus</a><br>
+                  </li>
+                  <li>Review <a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1lEDpxq4qvYeOS_GRc2fcChLYcH3ljPHo6JEsswG8EAQ/edit?usp=sharing">new
+                      team documentation requirements</a></li>
+                  <li>Review <a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1obE1054_YaNtQJM6KKj8ilvetH3rQ1kgf70ZBNIcnF4/edit?usp=sharing">project
+                      deliverables grading guidelines<br>
+                    </a></li>
+                  <li>Review <a target="_blank" href="https://docs.google.com/a/siena.edu/document/d/1ROQis2j1wSMkGijQ8y_mo0lFKL4qrh8FUs_kNV7tarY/edit?usp=sharing">Detailed
+                      Design Document Outline</a><br>
+                    <span style=" color: #333333;"></span></li>
+                  <li><span style=" color: #333333;">Complete <a target="_blank"
+                        href="https://docs.google.com/a/siena.edu/document/d/1eWZo8ZeDeJe54-dq8M75RVgoX9vF_N52fQUSwgNBclQ/edit?usp=sharing">MBTI
+                        assessment </a></span><br>
+                    <span style=" color: #333333;">(Due 9am on Wednesday, 1/21)</span></li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="https://drive.google.com/a/siena.edu/file/d/0B8xJjxsbUoMDTEI1d2pwaEtUMnc/view?usp=sharing">The
+                      Mythical Man-Month</a> </li>
+                  <li><a target="_top" href="http://www.forbes.com/sites/85broads/2013/07/22/the-top-five-tips-for-managing-client-expectations/">The
+                      Top Five Tips For Managing Client Expectations</a></li>
+                  <li><a target="_blank" href="http://www.business2community.com/strategy/7-simple-tips-manage-client-expectations-0968442">7
+                      Simple Tips To Manage Client Expectations</a></li>
+                  <li><a target="_blank" href="http://www.forbes.com/sites/cherylsnappconner/2013/04/14/office-politics-must-you-play-a-handbook-for-survivalsuccess/">Office
+                      Politics: Must You Play? A Handbook For Survival/Success</a></li>
+                  <li><a target="_blank" href="http://guides.wsj.com/careers/how-to-overcome-career-obstacles/how-to-handle-office-politics/">How
+                      to Handle Office Politics</a></li>
+                  <li><a target="_blank" href="https://www.youtube.com/watch?v=ZlBQxCzgRLw">Body
+                      Language Do's &amp; Don'ts | Good Manners </a><br>
+                  </li>
                 </ul>
               </td>
             </tr>
@@ -96,9 +129,10 @@
               <td><span style="font-style: italic;">MLK - No Classes</span><br>
               </td>
               <td>1/21</td>
-              <td>Lab 2: <br>
+              <td>Lecture 2: <br>
                 <ul>
-                  <li><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA<br>
+                  <li><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">MBTI
+                      Workshop<br>
                     </span></li>
                 </ul>
               </td>
