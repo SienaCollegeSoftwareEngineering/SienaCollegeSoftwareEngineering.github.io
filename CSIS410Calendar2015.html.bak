@@ -176,8 +176,6 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li>Daily Scrum (Stand-up Meetings)</li>
-                  <li>Test Driven Development</li>
                   <li>User Stories</li>
                   <li>Project Backlog</li>
                 </ul>
@@ -204,8 +202,6 @@
                 <ul>
                   <li><a target="_blank" href="http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf">An
                       Example Checklist for Scrum Masters</a></li>
-                  <li><br>
-                  </li>
                   <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/userStory.htm">User
                       Stories: An Agile Introduction</a></li>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2013/september/agile-user-stories">Agile
@@ -220,6 +216,8 @@
               <!-- Day -->
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
                 <ul>
+                  <li>Daily Scrum (Stand-up Meetings)</li>
+                  <li>Test Driven Development</li>
                   <li>Sprint Planning Meetings</li>
                   <li>Sprint Backlog</li>
                 </ul>
@@ -229,6 +227,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                   <li>Project Backlog</li>
+                  <li>Sprint Backlog</li>
                 </ul>
                 <br>
               </td>
@@ -255,7 +254,7 @@
                 <p><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 </p>
                 <ul>
-                  <li>Guest Speakers (Tentative)</li>
+                  <li>Guest Speakers</li>
                 </ul>
                 <p><br>
                 </p>
@@ -266,7 +265,7 @@
               <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Sprint Backlog</li>
+                  <li>Version Control</li>
                 </ul>
               </td>
               <!-- Lab -->
