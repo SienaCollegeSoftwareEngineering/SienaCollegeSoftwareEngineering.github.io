@@ -187,15 +187,16 @@
               <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
                 <br>
                 <ul>
+                  <li>Constraints</li>
+                  <li>Use Cases</li>
                   <li>User Stories</li>
-                  <li>Project Backlog</li>
+                  <li>Project Management Task Tracking Tools</li>
                 </ul>
               </td>
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Develop User Stories (Due START of lab on Thursday, 10/8)</li>
-                  <li>Start Project Backlog?</li>
+                  <li>Develop User Stories and Acceptance Criteria (with Client)</li>
                 </ul>
               </td>
               <td>
@@ -222,9 +223,10 @@
                 <ul>
                   <li>Quiz 1</li>
                   <li>Daily Scrum (Stand-up Meetings)</li>
-                  <li>Test Driven Development</li>
+                  <li>Behavior-Driven Design</li>
+                  <li>Detailing User Stories</li>
+                  <li>Test-Driven Development</li>
                   <li>Sprint Planning Meetings</li>
-                  <li>Sprint Backlog</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -233,20 +235,24 @@
                 <ul>
                   <li>Project Backlog</li>
                   <li>Sprint Backlog</li>
+                  <li>Detailing User Stories</li>
                 </ul>
                 <br>
               </td>
               <!-- Lab -->
               <td>
                 <ul class="style44">
-                  <li>Develop Project Backlog (Due START of lab on Thursday,
-                    10/8)</li>
+                  <li>Develop User Stories/Project Backlog (Due START of lab on
+                    Thursday, 10/8)</li>
                   <li>Sprint 1 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
               <td>
                 <ul class="style44">
-                  <li>TBA</li>
+                  <li><a target="_blank" href="http://agilemodeling.com/artifacts/flowChart.htm">Flow
+                      Charts: An Agile Introduction</a></li>
+                  <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/dataFlowDiagram.htm">Data
+                      Flow Diagram (DFD)s: An Agile Introduction </a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -282,7 +288,8 @@
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="http://agilemodeling.com/artifacts/activityDiagram.htm">Activity
+                      Diagram</a> </li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
