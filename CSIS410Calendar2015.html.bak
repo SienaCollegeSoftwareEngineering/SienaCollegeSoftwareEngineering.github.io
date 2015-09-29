@@ -222,20 +222,20 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
                 <ul>
                   <li>Quiz 1</li>
-                  <li>Daily Scrum (Stand-up Meetings)</li>
                   <li>Behavior-Driven Design</li>
                   <li>Detailing User Stories</li>
                   <li>Test-Driven Development</li>
-                  <li>Sprint Planning Meetings</li>
+                  <li>Daily Scrum (Stand-up Meetings)</li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>10/1</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Project Backlog</li>
-                  <li>Sprint Backlog</li>
+                  <li>Initial Architectural Envisioning</li>
                   <li>Detailing User Stories</li>
+                  <li>Velocity</li>
+                  <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <br>
               </td>
@@ -255,6 +255,9 @@
                       Flow Diagram (DFD)s: An Agile Introduction </a></li>
                   <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/activityDiagram.htm">UML
                       2 Activity Diagrams: An Agile Introduction</a></li>
+                  <li><a target="_blank" href="http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?_r=0">Volkswagen
+                      Says 11 Million Cars Worldwide Are Affected in Diesel
+                      Deception</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -268,6 +271,8 @@
                 </p>
                 <ul>
                   <li>Guest Speakers</li>
+                  <li>Sprint Planning Meetings</li>
+                  <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <p><br>
                 </p>
@@ -279,6 +284,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                   <li>Version Control</li>
+                  <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
               <!-- Lab -->
@@ -290,7 +296,8 @@
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting">7
+                      Mistakes During the Daily Stand-up Meeting</a></li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
