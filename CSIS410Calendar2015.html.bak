@@ -317,6 +317,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
                 <ul>
+                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
@@ -325,7 +326,10 @@
               <!-- Lab -->
               <td>
                 <ul>
-                  <li> Begin Sprint 1</li>
+                  <li>Begin Developing Team Website (Due START of lecture on
+                    Tuesday, 10/27)<br>
+                  </li>
+                  <li>Begin Sprint 1</li>
                 </ul>
               </td>
               <td>
@@ -371,8 +375,9 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li>Daily Scrum (Stand-up Meeting)</li>
+                  <li>Demo of Team Websites</li>
                   <li>Overview of Sprint Review Meetings</li>
+                  <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
                 </ul>
