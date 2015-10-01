@@ -232,14 +232,13 @@
               <td>10/1</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-<<<<<<< HEAD
-                  <li>Detailing User Stories</li>
-                  <li>Data Flow Diagrams (DFDs)</li>
-                  <li>Activity Diagrams</li>
-                  <li>Project Backlog</li>
-=======
                   <li>Initial Architectural Envisioning</li>
                   <li>Detailing User Stories</li>
+<<<<<<< HEAD
+                  <li>Data Flow Diagrams (DFDs)</li>
+                  <li>Activity Diagrams</li>
+                  <li>UI Prototyping</li>
+=======
                   <li>Velocity</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
 >>>>>>> origin/master
@@ -290,10 +289,11 @@
               <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Version Control</li>
 <<<<<<< HEAD
+                  <li>Version Control</li>
                   <li>Sprint Backlog</li>
 =======
+                  <li>Test-Driven Devlopment</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
 >>>>>>> origin/master
                 </ul>
@@ -328,7 +328,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
                 <ul>
-                  <li>Twitter Bootstrap</li>
+                  <li>Version Control</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
@@ -337,9 +337,6 @@
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Begin Developing Team Website (Due START of lecture on
-                    Tuesday, 10/27)<br>
-                  </li>
                   <li>Begin Sprint 1</li>
                 </ul>
               </td>
@@ -364,11 +361,13 @@
               <td>10/22</td>
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
+                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
                 </ul>
               </td>
               <td>
                 <ul>
+                  <li>Begin Developing Team Website</li>
                   <li>Work on Sprint 1</li>
                 </ul>
               </td>
