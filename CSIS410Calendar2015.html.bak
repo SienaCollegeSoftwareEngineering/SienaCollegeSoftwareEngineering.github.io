@@ -234,14 +234,10 @@
                 <ul>
                   <li>Initial Architectural Envisioning</li>
                   <li>Detailing User Stories</li>
-<<<<<<< HEAD
                   <li>Data Flow Diagrams (DFDs)</li>
                   <li>Activity Diagrams</li>
                   <li>UI Prototyping</li>
-=======
-                  <li>Velocity</li>
-                  <li>Daily Scrum (Stand-up Meeting)</li>
->>>>>>> origin/master
+                  <li>Project Backlog</li>
                 </ul>
                 <br>
               </td>
@@ -278,6 +274,7 @@
                 <ul>
                   <li>Guest Speakers</li>
                   <li>Sprint Planning Meetings</li>
+                  <li>Velocity</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <p><br>
@@ -289,13 +286,10 @@
               <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-<<<<<<< HEAD
-                  <li>Version Control</li>
+                  <li>Velocity</li>
                   <li>Sprint Backlog</li>
-=======
-                  <li>Test-Driven Devlopment</li>
+                  <li>Version Control</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
->>>>>>> origin/master
                 </ul>
               </td>
               <!-- Lab -->
@@ -328,7 +322,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
                 <ul>
-                  <li>Version Control</li>
+                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
@@ -361,7 +355,6 @@
               <td>10/22</td>
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
                 </ul>
               </td>
