@@ -233,9 +233,10 @@
               <td>10/1</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Project Backlog</li>
-                  <li>Sprint Backlog</li>
                   <li>Detailing User Stories</li>
+                  <li>Data Flow Diagrams (DFDs)</li>
+                  <li>Activity Diagrams</li>
+                  <li>Project Backlog</li>
                 </ul>
                 <br>
               </td>
@@ -279,6 +280,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                   <li>Version Control</li>
+                  <li>Sprint Backlog</li>
                 </ul>
               </td>
               <!-- Lab -->
@@ -290,7 +292,8 @@
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting">7
+                      Mistakes During the Daily Stand-up Meeting</a></li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
