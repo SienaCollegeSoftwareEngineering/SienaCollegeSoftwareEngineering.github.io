@@ -284,7 +284,7 @@
               <td>10/8</td>
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
-                  <li>Velocity</li>
+                  <li>Story Points &amp; Velocity</li>
                   <li>Sprint Backlog</li>
                   <li>Version Control</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
@@ -301,14 +301,14 @@
                 <ul>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting">7
                       Mistakes During the Daily Stand-up Meeting</a></li>
+                  <li><a target="_blank" href="http://scrummethodology.com/scrum-effort-estimation-and-story-points/">Scrum
+                      Effort Estimation and Story Points </a></li>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/february/velocity">How
                       to Calculate and Use Velocity to Help Your Team and Your
                       Projects </a> </li>
                   <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD65/Planning+a+Sprint">Planning
                       a Sprint- YouTrack<br>
                     </a></li>
-                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD6/Using+Burndown+Chart">Using
-                      Burndown Chart - YouTrack</a></li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
@@ -336,7 +336,7 @@
               <!-- Lab -->
               <td>
                 <ul>
-                  <li>Begin Sprint 1</li>
+                  <li>Begin Sprint 1 (10/15)</li>
                 </ul>
               </td>
               <td>
@@ -366,13 +366,15 @@
               </td>
               <td>
                 <ul>
-                  <li>Begin Developing Team Website</li>
+                  <li>Begin Developing Team Website (Due START of lecture on Tue
+                    11/17)</li>
                   <li>Work on Sprint 1</li>
                 </ul>
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD6/Using+Burndown+Chart">Using
+                      Burndown Chart - YouTrack</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -533,7 +535,7 @@
               <!-- Lab -->
               <td>
                 <ul>
-                  <li> Begin Sprint 2</li>
+                  <li> Begin Sprint 2 (11/17)</li>
                 </ul>
               </td>
               <td>
@@ -578,6 +580,7 @@
               <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:
                 </span><br>
                 <ul>
+                  <li>Guest Speakers</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
