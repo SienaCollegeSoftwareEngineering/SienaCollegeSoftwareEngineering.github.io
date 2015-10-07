@@ -273,10 +273,7 @@
                 <p><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 </p>
                 <ul>
-                  <li>Guest Speakers</li>
-                  <li>Sprint Planning Meetings</li>
-                  <li>Velocity</li>
-                  <li>Daily Scrum (Stand-up Meeting)</li>
+                  <li>Guest Speakers (Agile, Scrum, &amp; Kanban)</li>
                 </ul>
                 <p><br>
                 </p>
@@ -306,8 +303,12 @@
                       Mistakes During the Daily Stand-up Meeting</a></li>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/february/velocity">How
                       to Calculate and Use Velocity to Help Your Team and Your
-                      Projects
-                    </a> </li>
+                      Projects </a> </li>
+                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD65/Planning+a+Sprint">Planning
+                      a Sprint- YouTrack<br>
+                    </a></li>
+                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD6/Using+Burndown+Chart">Using
+                      Burndown Chart - YouTrack</a></li>
                 </ul>
                 <strong> <strong></strong></strong> </td>
               <!-- Assignments/Readings -->
@@ -327,7 +328,6 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <br>
                 <ul>
-                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
@@ -360,6 +360,7 @@
               <td>10/22</td>
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
+                  <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
                 </ul>
               </td>
@@ -383,7 +384,6 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li>Demo of Team Websites</li>
                   <li>Overview of Sprint Review Meetings</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
@@ -516,6 +516,7 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>Demo of Team Websites</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
