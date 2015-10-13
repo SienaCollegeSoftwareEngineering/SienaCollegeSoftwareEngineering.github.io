@@ -285,7 +285,7 @@
               <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
                 <ul>
                   <li>Story Points &amp; Velocity</li>
-                  <li>Sprint Backlog</li>
+                  <li>Sprint Planning Meetings/Sprint Backlog</li>
                   <li>Version Control</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
@@ -305,7 +305,9 @@
                       Effort Estimation and Story Points </a></li>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/february/velocity">How
                       to Calculate and Use Velocity to Help Your Team and Your
-                      Projects </a> </li>
+                      Projects </a></li>
+                  <li><a target="_blank" href="http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm">Sprint
+                      Planning Meeting</a> </li>
                   <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD65/Planning+a+Sprint">Planning
                       a Sprint- YouTrack<br>
                     </a></li>
@@ -353,6 +355,8 @@
               <!-- Day -->
               <td><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
                 <ul>
+                </ul>
+                <ul>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
@@ -386,6 +390,7 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>Quiz 2</li>
                   <li>Overview of Sprint Review Meetings</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
