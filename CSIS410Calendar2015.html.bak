@@ -75,7 +75,8 @@
               <!--Lecture -->
               <td>9/10</td>
               <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-                  style="text-decoration: underline; font-weight: bold;">Lab: </span><br>
+                  style="text-decoration: underline; font-weight: bold;">Lab 1:
+                </span><br>
                 <ul>
                   <li>Background and Professional Life Preparation</li>
                 </ul>
@@ -130,8 +131,8 @@
               </td>
               <!--Lecture -->
               <td>9/17</td>
-              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
-                <br>
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
+                  2</span>: <br>
                 <ul>
                   <li>Development Environments</li>
                   <li>Project Charter</li>
@@ -184,8 +185,8 @@
               </td>
               <!--Lecture -->
               <td>9/24</td>
-              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:
-                <br>
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
+                  3</span>: <br>
                 <ul>
                   <li>Constraints</li>
                   <li>Use Cases</li>
@@ -230,7 +231,8 @@
               </td>
               <!--Lecture -->
               <td>10/1</td>
-              <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
+                  4</span>:
                 <ul>
                   <li>Initial Architectural Envisioning</li>
                   <li>Detailing User Stories</li>
@@ -282,7 +284,8 @@
               </td>
               <!--Lecture -->
               <td>10/8</td>
-              <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
+                  5</span>:
                 <ul>
                   <li>Story Points &amp; Velocity</li>
                   <li>Sprint Planning Meetings/Sprint Backlog</li>
@@ -322,14 +325,19 @@
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
+                  <li>Agile Cost Estimation</li>
+                  <li>Test-Driven Development</li>
+                  <li>Unit Testing</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>10/15</td>
-              <td><span style="text-decoration: underline; font-weight: bold;">Lab</span>:
-                <br>
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
+                  6</span>: <br>
                 <ul>
+                  <li>SaaS PHP apps</li>
+                  <li>Version Control (Git/GitHub)</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
                 <ul>
@@ -343,7 +351,8 @@
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li>Introduction to Test-Driven Development Methodology
+                    (handed out on 10/13)</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -357,12 +366,14 @@
                 <ul>
                 </ul>
                 <ul>
+                  <li>Developing good websites</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>10/22</td>
-              <td> <span style="text-decoration: underline; font-weight: bold;">Lab</span>:
+              <td> <span style="text-decoration: underline; font-weight: bold;">Lab
+                  7</span>:
                 <ul>
                   <li>Twitter Bootstrap</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
@@ -443,8 +454,8 @@
               </td>
               <!--Lecture -->
               <td>11/5</td>
-              <td> <span style="font-weight: bold; text-decoration: underline;">Lab</span><span
-                  style="font-style: italic;">:<br>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lab
+                  8</span><span style="font-style: italic;">:<br>
                 </span>
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting) </li>
@@ -483,7 +494,7 @@
               <!--Lecture -->
               <td>11/12</td>
               <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-                  style="font-weight: bold; text-decoration: underline;">Lab:</span><span
+                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
                   style="font-weight: bold;"></span> <br>
                 <ul>
                   <li>Backlog Refinement Meeting</li>
@@ -502,7 +513,7 @@
               <td>
                 <ul>
                   <li>Finish Sprint 1 (START of lecture on Tue 11/10)</li>
-                  <li>Submit Spring 1 teammate evaluations (Due 4pm on Thur
+                  <li>Submit Sprint 1 teammate evaluations (Due 4pm on Thur
                     11/12)</li>
                   <li>Sprint 1 Review Meeting (with customer if they are unable
                     to attend class)</li>
@@ -529,7 +540,8 @@
               </td>
               <!--Lecture -->
               <td>11/19</td>
-              <td><span style="font-weight: bold; text-decoration: underline;">Lab</span>:<br>
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
+                  10</span>:<br>
                 <ul>
                   <li>Alumni Guest Speakers</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
@@ -591,7 +603,7 @@
               </td>
               <!--Lecture -->
               <td>12/3</td>
-              <td><strong><span style="text-decoration: underline;">Lab</span>:</strong><br>
+              <td><strong><span style="text-decoration: underline;">Lab 11</span>:</strong><br>
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
