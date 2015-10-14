@@ -364,9 +364,7 @@
               <!-- Day -->
               <td><span style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
                 <ul>
-                </ul>
-                <ul>
-                  <li>Developing good websites</li>
+                  <li>Web Designing Frameworks</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
@@ -375,7 +373,7 @@
               <td> <span style="text-decoration: underline; font-weight: bold;">Lab
                   7</span>:
                 <ul>
-                  <li>Twitter Bootstrap</li>
+                  <li>Web Designing Frameworks</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
                 </ul>
               </td>
