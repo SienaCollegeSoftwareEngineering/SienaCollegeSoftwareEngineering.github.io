@@ -1,63 +1,63 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en">
   <head>
-    <meta  content="text/html; charset=UTF-8"  http-equiv="content-type">
-    <meta  http-equiv="X-UA-Compatible"  content="IE=edge">
-    <meta  name="viewport"  content="width=device-width, initial-scale=1.0">
-    <meta  name="description"  content="Siena Software Engineering - Computer Science Department">
-    <meta  name="author"  content="Meg Fryling">
-    <link  rel="shortcut icon"  href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Siena Software Engineering - Computer Science Department">
+    <meta name="author" content="Meg Fryling">
+    <link rel="shortcut icon" href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
     <title>Siena Software Engineering - Computer Science Department</title>
     <!-- Bootstrap core CSS -->
-    <link  href="Calendar_files/bootstrap.css"  rel="stylesheet">
+    <link href="Calendar_files/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link  href="Calendar_files/se2014.css"  rel="stylesheet">
-    <link  href="Calendar_files/font-awesome.css"  rel="stylesheet">
+    <link href="Calendar_files/se2014.css" rel="stylesheet">
+    <link href="Calendar_files/font-awesome.css" rel="stylesheet">
     <!-- Fav and touch icons -->
-    <link  rel="apple-touch-icon-precomposed"  sizes="144x144"  href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-144-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  sizes="114x114"  href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-114-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  sizes="72x72"  href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-72-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-57-precomposed.png">
-    <link  rel="shortcut icon"  href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="http://www.cs.siena.edu/%7Emfryling/SoftwareEngineering/ico/favicon.png">
   </head>
   <!--**********************************************************************************************************-->
   <body>
-    <div  class="navbar navbar-inverse navbar-fixed-top"  role="navigation">
-      <div  class="container">
-        <div  class="navbar-header"> <button  type="button"  class="navbar-toggle"
-             data-toggle="collapse"  data-target=".navbar-collapse"> <span  class="sr-only">Toggle
-              navigation</span> <span  class="icon-bar"></span> <span  class="icon-bar"></span>
-            <span  class="icon-bar"></span> </button> <a  class="navbar-brand"
-             href="index.html">&nbsp; Home</a> </div>
-        <div  class="collapse navbar-collapse">
-          <ul  class="nav navbar-nav">
-            <li><a  href="calendars.html">&nbsp;Course Calendar</a></li>
-            <li><a  href="teams.html">&nbsp;Team Websites</a></li>
-            <li><a  href="links.html"><span  class="fa fa-link"></span>&nbsp;Course-Related
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+              navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
+            Home</a> </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
+            <li><a href="teams.html">&nbsp;Team Websites</a></li>
+            <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
                 Links</a></li>
-            <li><a  href="http://www.siena.edu/cs/"  target="_blank">CS@Siena</a></li>
-            <li><a  href="http://www.siena.edu"  target="_blank">&nbsp; Siena
+            <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
+            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
                 College</a></li>
           </ul>
         </div>
       </div>
     </div>
     <!--********************************************************************************************************************************************************-->
-    <div  class="container">
-      <div  class="page-header">
+    <div class="container">
+      <div class="page-header">
         <h1>CSIS410. Software Engineering I Calendar</h1>
       </div>
-      <div  class="table-responsive">
-        <table  class="table table-bordered table-striped">
+      <div class="table-responsive">
+        <table class="table table-bordered table-striped">
           <thead>
             <tr>
               <th>Date</th>
-              <th  style="width: 290px;">Tuesday </th>
-              <td><span  style="font-weight: bold;">Date</span></td>
-              <th  style="margin-left: -220px;">Thursday </th>
-              <td  style="width: 260px;"><span  style="font-weight: bold;">Assignments<br>
+              <th style="width: 290px;">Tuesday </th>
+              <td><span style="font-weight: bold;">Date</span></td>
+              <th style="margin-left: -220px;">Thursday </th>
+              <td style="width: 260px;"><span style="font-weight: bold;">Assignments<br>
                 </span></td>
-              <th  style="width: 258px;">Readings</th>
+              <th style="width: 258px;">Readings</th>
             </tr>
           </thead>
           <tbody>
@@ -65,7 +65,8 @@
               <!-- Month -->
               <td>9/8</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:&nbsp;
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture
+                  1</span>:&nbsp;
                 <ul>
                   <li>Course Overview</li>
                   <li>Project Management</li>
@@ -74,8 +75,8 @@
               </td>
               <!--Lecture -->
               <td>9/10</td>
-              <td><span  style="font-weight: bold; text-decoration: underline;"></span><span
-                   style="text-decoration: underline; font-weight: bold;">Lab 1:
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="text-decoration: underline; font-weight: bold;">Lab 1:
                 </span><br>
                 <ul>
                   <li>Background and Professional Life Preparation</li>
@@ -86,7 +87,7 @@
               <!-- Lab -->
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://goo.gl/forms/VC0hLJb9eR">Submit</a>
+                  <li><a target="_blank" href="http://goo.gl/forms/VC0hLJb9eR">Submit</a>
                     team name, team members' names, and project preferences to
                     Dr. Fryling by 4pm on Thursday, 9/10</li>
                   <li>Develop Resume (Due START of lab on Thursday 9/17)</li>
@@ -94,18 +95,18 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_top"  href="http://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"><em>Classic</em>
+                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm"><em>Classic</em>
                       Waterfall Model</a></li>
-                  <li><a  target="_top"  href="http://www.tutorialspoint.com/sdlc/index.htm">Spiral
+                  <li><a target="_top" href="http://www.tutorialspoint.com/sdlc/index.htm">Spiral
                       Model, Software Prototype Model, Agile Model </a></li>
-                  <li><a  href="http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/avoid-the-top-10-resume-mistakes/article.aspx">Avoid
+                  <li><a href="http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/avoid-the-top-10-resume-mistakes/article.aspx">Avoid
                       the Top 10 Resume Mistakes </a></li>
-                  <li><a  target="_blank"  href="http://mashable.com/2014/07/16/ignored-resume/?utm_cid=mash-com-fb-main-link">10
+                  <li><a target="_blank" href="http://mashable.com/2014/07/16/ignored-resume/?utm_cid=mash-com-fb-main-link">10
                       Reasons Why I Ignored Your Resume</a></li>
-                  <li><a  target="_blank"  href="http://mashable.com/2014/10/20/resume-first-glance/?utm_cid=mash-com-fb-main-link">8
+                  <li><a target="_blank" href="http://mashable.com/2014/10/20/resume-first-glance/?utm_cid=mash-com-fb-main-link">8
                       Things Recruiters Notice About Your Resume at First Glance
                       (and 4 Things That Don't Matter) </a></li>
-                  <li><a  href="http://www.businessinsider.com/excellent-resume-for-recent-grad-2014-7">8
+                  <li><a href="http://www.businessinsider.com/excellent-resume-for-recent-grad-2014-7">8
                       Reasons This Is An Excellent Resume For A Recent College
                       Graduate</a></li>
                 </ul>
@@ -116,13 +117,13 @@
               <!-- Month -->
               <td>9/15</td>
               <!-- Day -->
-              <td> <span  style="text-decoration: underline; font-weight: bold;">Lecture</span>:
-                <br>
+              <td> <span style="text-decoration: underline; font-weight: bold;">Lecture
+                  2</span>: <br>
                 <ul>
                   <li>Software Project Management <br>
                     -Initiating &amp; Planning Phases<br>
                   </li>
-                  <li><a  target="_blank"  href="http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm">Software
+                  <li><a target="_blank" href="http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm">Software
                       Development Life Cycle (SDLC)</a></li>
                   <li>Software Development Models</li>
                   <li>Scrum Teams</li>
@@ -131,7 +132,7 @@
               </td>
               <!--Lecture -->
               <td>9/17</td>
-              <td><span  style="font-weight: bold; text-decoration: underline;">Lab
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
                   2</span>: <br>
                 <ul>
                   <li>Development Environments</li>
@@ -145,7 +146,7 @@
                 <ul>
                   <li>Meet with clients for first time</li>
                   <li>Develop Project Charter</li>
-                  <li>Select Scrum Master - <a  target="_blank"  href="http://goo.gl/forms/FJ43Jo8rpD">Submit
+                  <li>Select Scrum Master - <a target="_blank" href="http://goo.gl/forms/FJ43Jo8rpD">Submit
                       </a>name to Dr. Fryling by 4pm on Thursday, 9/17</li>
                   <li>Develop Project Charter (Due START of lab on Thursday
                     9/24)</li>
@@ -153,17 +154,17 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm">Introduction
+                  <li><a target="_blank" href="http://scrumtrainingseries.com/Intro_to_Scrum/Intro_to_Scrum.htm">Introduction
                       to Scrum</a></li>
-                  <li><a  target="_blank"  href="http://scrummethodology.com/the-scrummaster-role/%29">Scrum
+                  <li><a target="_blank" href="http://scrummethodology.com/the-scrummaster-role/%29">Scrum
                       Master Role</a></li>
-                  <li><a  target="_blank"  href="http://scrumreferencecard.com/ScrumReferenceCard.pdf">Scrum
+                  <li><a target="_blank" href="http://scrumreferencecard.com/ScrumReferenceCard.pdf">Scrum
                       Reference Card</a></li>
-                  <li><a  target="_blank"  href="https://www.scrumalliance.org/community/articles/2014/march/mapping-of-the-project-manager-role-to-scrum-maste">Mapping
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/march/mapping-of-the-project-manager-role-to-scrum-maste">Mapping
                       of the Project Manager Role to the ScrumMaster Role </a></li>
-                  <li><a  target="_blank"  href="http://racichart.org/the-raci-model/">The
+                  <li><a target="_blank" href="http://racichart.org/the-raci-model/">The
                       RACI Model</a></li>
-                  <li><a  target="_blank"  href="https://www.scrumalliance.org/community/articles/2012/june/the-raci-f-matrix">The
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2012/june/the-raci-f-matrix">The
                       RACI+F Matrix (Agile Example)<br>
                     </a></li>
                 </ul>
@@ -174,8 +175,8 @@
               <!-- Month -->
               <td>9/22</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
-                <br>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture
+                  3</span>: <br>
                 <ul>
                   <li>User Stories</li>
                   <li>Project Backlog</li>
@@ -185,7 +186,7 @@
               </td>
               <!--Lecture -->
               <td>9/24</td>
-              <td><span  style="font-weight: bold; text-decoration: underline;">Lab
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
                   3</span>: <br>
                 <ul>
                   <li>Constraints</li>
@@ -202,15 +203,15 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf">An
+                  <li><a target="_blank" href="http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf">An
                       Example Checklist for Scrum Masters</a></li>
-                  <li><a  target="_blank"  href="http://www.agilemodeling.com/artifacts/userStory.htm">User
+                  <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/userStory.htm">User
                       Stories: An Agile Introduction</a></li>
-                  <li><a  target="_blank"  href="https://www.scrumalliance.org/community/articles/2013/september/agile-user-stories">Agile
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2013/september/agile-user-stories">Agile
                       User Stories</a></li>
-                  <li><a  target="_blank"  href="http://www.uml-diagrams.org/use-case-include.html">UML
+                  <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-include.html">UML
                       Use Case Include</a> </li>
-                  <li><a  target="_blank"  href="http://www.uml-diagrams.org/use-case-extend.html">UML
+                  <li><a target="_blank" href="http://www.uml-diagrams.org/use-case-extend.html">UML
                       Use Case Extend</a></li>
                 </ul>
               </td>
@@ -220,7 +221,8 @@
               <!-- Month -->
               <td>9/29</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture
+                  4</span>:<br>
                 <ul>
                   <li>Quiz 1</li>
                   <li>Behavior-Driven Design</li>
@@ -231,7 +233,7 @@
               </td>
               <!--Lecture -->
               <td>10/1</td>
-              <td><span  style="text-decoration: underline; font-weight: bold;">Lab
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
                   4</span>:
                 <ul>
                   <li>Initial Architectural Envisioning</li>
@@ -244,8 +246,8 @@
               </td>
               <!-- Lab -->
               <td>
-                <ul  class="style44">
-                  <li><a  target="_blank"  href="http://goo.gl/forms/YQLNaAY9rI">Submit
+                <ul class="style44">
+                  <li><a target="_blank" href="http://goo.gl/forms/YQLNaAY9rI">Submit
                       your GitHub username</a> (Due 11:59pm on Tuesday, 10/6) </li>
                   <li>Develop User Stories/Project Backlog (Due START of lab on
                     Thursday, 10/8)</li>
@@ -253,14 +255,14 @@
                 </ul>
               </td>
               <td>
-                <ul  class="style44">
-                  <li><a  target="_blank"  href="http://agilemodeling.com/artifacts/flowChart.htm">Flow
+                <ul class="style44">
+                  <li><a target="_blank" href="http://agilemodeling.com/artifacts/flowChart.htm">Flow
                       Charts: An Agile Introduction</a></li>
-                  <li><a  target="_blank"  href="http://www.agilemodeling.com/artifacts/dataFlowDiagram.htm">Data
+                  <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/dataFlowDiagram.htm">Data
                       Flow Diagram (DFD)s: An Agile Introduction </a></li>
-                  <li><a  target="_blank"  href="http://www.agilemodeling.com/artifacts/activityDiagram.htm">UML
+                  <li><a target="_blank" href="http://www.agilemodeling.com/artifacts/activityDiagram.htm">UML
                       2 Activity Diagrams: An Agile Introduction</a></li>
-                  <li><a  target="_blank"  href="http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?_r=0">Volkswagen
+                  <li><a target="_blank" href="http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?_r=0">Volkswagen
                       Says 11 Million Cars Worldwide Are Affected in Diesel
                       Deception</a></li>
                 </ul>
@@ -272,8 +274,8 @@
               <td>10/6</td>
               <!-- Day -->
               <td>
-                <p><span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
-                </p>
+                <p><span style="font-weight: bold; text-decoration: underline;">Lecture
+                    5</span>: </p>
                 <ul>
                   <li>Guest Speakers (Agile, Scrum, &amp; Kanban)</li>
                 </ul>
@@ -284,7 +286,7 @@
               </td>
               <!--Lecture -->
               <td>10/8</td>
-              <td><span  style="text-decoration: underline; font-weight: bold;">Lab
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
                   5</span>:
                 <ul>
                   <li>Story Points &amp; Velocity</li>
@@ -302,16 +304,16 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting">7
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/july/7-mistakes-during-the-daily-stand-up-meeting">7
                       Mistakes During the Daily Stand-up Meeting</a></li>
-                  <li><a  target="_blank"  href="http://scrummethodology.com/scrum-effort-estimation-and-story-points/">Scrum
+                  <li><a target="_blank" href="http://scrummethodology.com/scrum-effort-estimation-and-story-points/">Scrum
                       Effort Estimation and Story Points </a></li>
-                  <li><a  target="_blank"  href="https://www.scrumalliance.org/community/articles/2014/february/velocity">How
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/february/velocity">How
                       to Calculate and Use Velocity to Help Your Team and Your
                       Projects </a></li>
-                  <li><a  target="_blank"  href="http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm">Sprint
+                  <li><a target="_blank" href="http://scrumtrainingseries.com/SprintPlanningMeeting/SprintPlanningMeeting.htm">Sprint
                       Planning Meeting</a> </li>
-                  <li><a  target="_blank"  href="https://confluence.jetbrains.com/display/YTD65/Planning+a+Sprint">Planning
+                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD65/Planning+a+Sprint">Planning
                       a Sprint- YouTrack<br>
                     </a></li>
                 </ul>
@@ -322,8 +324,8 @@
               <!-- Month -->
               <td>10/13</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
-                <br>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture
+                  6</span>: <br>
                 <ul>
                   <li>Agile Cost Estimation</li>
                   <li>Test-Driven Development</li>
@@ -333,7 +335,7 @@
               </td>
               <!--Lecture -->
               <td>10/15</td>
-              <td><span  style="text-decoration: underline; font-weight: bold;">Lab
+              <td><span style="text-decoration: underline; font-weight: bold;">Lab
                   6</span>: <br>
                 <ul>
                   <li>SaaS PHP apps</li>
@@ -362,7 +364,8 @@
               <td>10/20</td>
               <!-- Lab -->
               <!-- Day -->
-              <td><span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:<br>
+              <td><span style="font-weight: bold; text-decoration: underline;">Lecture
+                  7</span>:<br>
                 <ul>
                   <li>User Interface Design</li>
                   <li>Web Designing Frameworks</li>
@@ -372,7 +375,7 @@
               </td>
               <!--Lecture -->
               <td>10/22</td>
-              <td> <span  style="text-decoration: underline; font-weight: bold;">Lab
+              <td> <span style="text-decoration: underline; font-weight: bold;">Lab
                   7</span>:
                 <ul>
                   <li>Web Designing Frameworks</li>
@@ -388,27 +391,28 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="https://www.cs.umd.edu/users/ben/goldenrules.html">The
+                  <li><a target="_blank" href="https://www.cs.umd.edu/users/ben/goldenrules.html">The
                       Eight Golden Rules of Interface Design</a></li>
-                  <li><a  target="_blank"  href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
+                  <li><a target="_blank" href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
 Usability
                       Heuristics</a></li>
-                  <li><a  target="_blank"  href="http://www.gui-bloopers.com/checklist.php"><span
-                         style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
-                  <li><a  target="_blank"  href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
+                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
+                        style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
+                  <li><a target="_blank" href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
                       Interface Design Tips, Techniques, and Principles</a></li>
-                  <li><a  target="_blank"  href="http://www.goodexperience.com/tib/archives/webtech/">This
+                  <li><a target="_blank" href="http://www.goodexperience.com/tib/archives/webtech/">This
                       Is Broken</a></li>
-                  <li><a  target="_blank"  href="http://www.masternewmedia.org/news/2005/04/17/bad_user_interface_design_can.htm">Bad
+                  <li><a target="_blank" href="http://www.masternewmedia.org/news/2005/04/17/bad_user_interface_design_can.htm">Bad
                       User Interface Design Can Be Deadly</a></li>
-                  <li><a  target="_blank"  href="http://www.cracked.com/article_19776_6-disasters-caused-by-poorly-designed-user-interfaces.html#ixzz3Kqi3ZGmt">6
+                  <li><a target="_blank" href="http://www.cracked.com/article_19776_6-disasters-caused-by-poorly-designed-user-interfaces.html#ixzz3Kqi3ZGmt">6
                       Disasters Caused by Poorly Designed User Interfaces </a></li>
-                  <li><a  target="_blank"  href="http://www.usernomics.com/user-interface-design.html">Usernomics</a></li>
-                  <li><a  target="_blank"  href="http://www.smashingmagazine.com/2009/05/12-tips-for-designing-an-excellent-checkout-process/">12
+                  <li><a target="_blank" href="http://www.usernomics.com/user-interface-design.html">Usernomics</a></li>
+                  <li><a target="_blank" href="http://www.smashingmagazine.com/2009/05/12-tips-for-designing-an-excellent-checkout-process/">12
                       Tips For Designing an Excellent Checkout Process</a></li>
-                  <li><a  target="_blank"  href="https://goodui.org/">A Good
-                      User Interface
-                    </a> </li>
+                  <li><a target="_blank" href="https://goodui.org/">A Good User
+                      Interface </a></li>
+                  <li><a target="_blank" href="http://www.webpagesthatsuck.com/worst-websites-of-2013.html">Worst
+                      Websites of 2013</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -417,7 +421,7 @@ Usability
               <!-- Month -->
               <td>10/27</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
                   <li>Quiz 2</li>
@@ -432,13 +436,13 @@ Usability
               </td>
               <!--Lecture -->
               <td>10/29</td>
-              <td><span  style="text-decoration: underline; font-style: italic;">No
-                  Formal Lab</span><span  style="font-style: italic;">:</span>
+              <td><span style="text-decoration: underline; font-style: italic;">No
+                  Formal Lab</span><span style="font-style: italic;">:</span>
                 <ul>
-                  <li><span  style="font-style: italic;">Daily Scrum (Stand-up
+                  <li><span style="font-style: italic;">Daily Scrum (Stand-up
                       Meeting)</span></li>
-                  <li><span  style="font-style: italic;">Work on Sprint 1</span></li>
-                  <li><span  style=" font-style: italic;">Work on team websites<br>
+                  <li><span style="font-style: italic;">Work on Sprint 1</span></li>
+                  <li><span style=" font-style: italic;">Work on team websites<br>
                     </span></li>
                 </ul>
                 <ul>
@@ -454,7 +458,7 @@ Usability
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="https://confluence.jetbrains.com/display/YTD6/Using+Burndown+Chart">Using
+                  <li><a target="_blank" href="https://confluence.jetbrains.com/display/YTD6/Using+Burndown+Chart">Using
                       Burndown Chart - YouTrack</a></li>
                 </ul>
               </td>
@@ -464,22 +468,22 @@ Usability
               <!-- Month -->
               <td>11/3</td>
               <!-- Day -->
-              <td> <strong><span  style="text-decoration: underline;"></span></strong><span
-                   style="font-style: italic;">No Formal Lecture</span>:
+              <td> <strong><span style="text-decoration: underline;"></span></strong><span
+                  style="font-style: italic;">No Formal Lecture</span>:
                 <ul>
-                  <li><span  style="font-style: italic;">Daily Scrum (Stand-up
+                  <li><span style="font-style: italic;">Daily Scrum (Stand-up
                       Meeting)</span><br>
-                    <span  style="font-style: italic;"><span  style="font-weight: bold;"></span></span></li>
-                  <li><span  style="font-style: italic;">Work on Sprint 1<span  style="font-weight: bold;"></span></span></li>
-                  <li><span  style=" font-style: italic;">Work on team websites<span
-                         style=" font-weight: bold;"><br>
+                    <span style="font-style: italic;"><span style="font-weight: bold;"></span></span></li>
+                  <li><span style="font-style: italic;">Work on Sprint 1<span style="font-weight: bold;"></span></span></li>
+                  <li><span style=" font-style: italic;">Work on team websites<span
+                        style=" font-weight: bold;"><br>
                       </span></span></li>
                 </ul>
               </td>
               <!--Lecture -->
               <td>11/5</td>
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lab
-                  8</span><span  style="font-style: italic;">:<br>
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lab
+                  8</span><span style="font-style: italic;">:<br>
                 </span>
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting) </li>
@@ -496,7 +500,7 @@ Usability
               </td>
               <td> <br>
                 <ul>
-                  <li><a  target="_blank"  href="http://scrumtrainingseries.com/SprintRetrospectiveMeeting/SprintRetrospectiveMeeting.htm">Sprint
+                  <li><a target="_blank" href="http://scrumtrainingseries.com/SprintRetrospectiveMeeting/SprintRetrospectiveMeeting.htm">Sprint
                       Retrospective Meeting</a></li>
                 </ul>
                 <strong> </strong></td>
@@ -506,7 +510,7 @@ Usability
               <!-- Month -->
               <td>11/10</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
                   <li>Sprint 1 Review Meeting (for class and client, if
@@ -517,9 +521,9 @@ Usability
               </td>
               <!--Lecture -->
               <td>11/12</td>
-              <td><span  style="font-weight: bold; text-decoration: underline;"></span><span
-                   style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
-                   style="font-weight: bold;"></span> <br>
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
+                  style="font-weight: bold;"></span> <br>
                 <ul>
                   <li>Backlog Refinement Meeting</li>
                   <li>Sprint 1 Retrospective Meeting</li>
@@ -555,7 +559,7 @@ Usability
               <!-- Month -->
               <td>11/17</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
                   <li>Demo of Team Websites</li>
@@ -564,7 +568,7 @@ Usability
               </td>
               <!--Lecture -->
               <td>11/19</td>
-              <td><span  style="font-weight: bold; text-decoration: underline;">Lab
+              <td><span style="font-weight: bold; text-decoration: underline;">Lab
                   10</span>:<br>
                 <ul>
                   <li>Alumni Guest Speakers</li>
@@ -590,8 +594,8 @@ Usability
               <!-- Month -->
               <td>11/24</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold; text-decoration: underline;"></span><span
-                   style="font-weight: bold; text-decoration: underline;">Lecture</span>:
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
@@ -618,7 +622,7 @@ Usability
             <tr>
               <td>12/1</td>
               <!-- Day -->
-              <td><span  style="font-weight: bold;"><span  style="text-decoration: underline;">Lecture</span>:
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:
                 </span><br>
                 <ul>
                   <li>Guest Speakers</li>
@@ -627,7 +631,7 @@ Usability
               </td>
               <!--Lecture -->
               <td>12/3</td>
-              <td><strong><span  style="text-decoration: underline;">Lab 11</span>:</strong><br>
+              <td><strong><span style="text-decoration: underline;">Lab 11</span>:</strong><br>
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
@@ -647,7 +651,7 @@ Usability
             </tr>
             <tr>
               <td>12/8</td>
-              <td><span  style="font-weight: bold;"><span  style="text-decoration: underline;">Lecture</span>:<br>
+              <td><span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
                 </span>
                 <ul>
                   <li>SaaS, PaaS, &amp; IaaS</li>
@@ -656,13 +660,12 @@ Usability
               </td>
               <td>12/10<br>
               </td>
-              <td><strong></strong> <span  style="text-decoration: underline; font-style: italic;">No
-                  Formal Lab</span><span  style="font-style: italic;">:</span>
+              <td><strong></strong> <span style="text-decoration: underline; font-style: italic;">No
+                  Formal Lab</span><span style="font-style: italic;">:</span>
                 <ul>
-                  <li><span  style="font-style: italic;">Daily Scrum (Stand-up
+                  <li><span style="font-style: italic;">Daily Scrum (Stand-up
                       Meeting)</span></li>
-                  <li><span  style="font-style: italic;">Presentation
-                      Preparation</span></li>
+                  <li><span style="font-style: italic;">Presentation Preparation</span></li>
                 </ul>
               </td>
               <td>
@@ -672,7 +675,7 @@ Usability
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://www.interoute.com/what-saas">What
+                  <li><a target="_blank" href="http://www.interoute.com/what-saas">What
                       is SaaS? </a></li>
                 </ul>
               </td>
@@ -681,7 +684,7 @@ Usability
               <!-- Month -->
               <td>12/14</td>
               <!-- Day -->
-              <td> <span  style="font-weight: bold;"><span  style="text-decoration: underline;">Lecture</span>:<br>
+              <td> <span style="font-weight: bold;"><span style="text-decoration: underline;">Lecture</span>:<br>
                 </span>
                 <ul>
                   <li>Sprint 2 Review Meeting (for class and client, if
@@ -721,7 +724,7 @@ Usability
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script  src="Calendar_files/jquery.js"></script>
-    <script  src="Calendar_files/bootstrap.js"></script>
+    <script src="Calendar_files/jquery.js"></script>
+    <script src="Calendar_files/bootstrap.js"></script>
   </body>
 </html>
