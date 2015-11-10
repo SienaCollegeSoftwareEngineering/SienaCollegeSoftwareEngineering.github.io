@@ -354,7 +354,7 @@
               <td>
                 <ul>
                   <li>Introduction to Test-Driven Development Methodology
-                    (handed out on 10/13)</li>
+                    (handed out on 10/13 and available on Blackboard)</li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -521,8 +521,13 @@ Usability
                 <ul>
                   <li>Sprint 1 Review Meeting (for class and client, if
                     available)</li>
-                  <li>Overview of Backlog Refinement and Retrospective Meetings</li>
-                  <li>Safety Check Demo </li>
+                  <ul>
+                    <li>Elite</li>
+                    <li>ASTRAL Systems</li>
+                    <li>Maltan</li>
+                    <li>Alphabit Soup</li>
+                  </ul>
+                  <li>Sprint 1 Retrospective (Generally all teams)</li>
                   <li>Daily Scrum (Stand-up Meeting) </li>
                 </ul>
               </td>
@@ -532,15 +537,9 @@ Usability
                   style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
                   style="font-weight: bold;"></span> <br>
                 <ul>
+                  <li>Daily Scrum (Stand-up Meeting)</li>
                   <li>Backlog Refinement Meeting</li>
                   <li>Sprint 1 Retrospective Meeting</li>
-                  <ul>
-                    <li>Safety Check</li>
-                  </ul>
-                  <ul>
-                    <li>What went well?</li>
-                    <li>What can be improved?</li>
-                  </ul>
                   <li>Sprint 2 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
@@ -557,7 +556,8 @@ Usability
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective">Key
+                      Elements of the Sprint Retrospective</a></li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -642,6 +642,7 @@ Usability
               <td>12/3</td>
               <td><strong><span style="text-decoration: underline;">Lab 11</span>:</strong><br>
                 <ul>
+                  <li>SaaS, PaaS, &amp; IaaS</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
