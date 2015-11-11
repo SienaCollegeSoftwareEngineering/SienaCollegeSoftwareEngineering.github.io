@@ -24,7 +24,8 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
@@ -75,7 +76,8 @@
               </td>
               <!--Lecture -->
               <td>9/10</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="text-decoration: underline; font-weight: bold;">Lab 1:
                 </span><br>
                 <ul>
@@ -396,7 +398,8 @@
                   <li><a target="_blank" href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
 Usability
                       Heuristics</a></li>
-                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
+                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
+
                         style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
                   <li><a target="_blank" href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
                       Interface Design Tips, Techniques, and Principles</a></li>
@@ -473,14 +476,16 @@ Usability
               <!-- Month -->
               <td>11/3</td>
               <!-- Day -->
-              <td> <strong><span style="text-decoration: underline;"></span></strong><span
+              <td> <strong><span style="text-decoration: underline;"></span></strong><span
+
                   style="font-style: italic;">No Formal Lecture</span>:
                 <ul>
                   <li><span style="font-style: italic;">Daily Scrum (Stand-up
                       Meeting)</span><br>
                     <span style="font-style: italic;"><span style="font-weight: bold;"></span></span></li>
                   <li><span style="font-style: italic;">Work on Sprint 1<span style="font-weight: bold;"></span></span></li>
-                  <li><span style=" font-style: italic;">Work on team websites<span
+                  <li><span style=" font-style: italic;">Work on team websites<span
+
                         style=" font-weight: bold;"><br>
                       </span></span></li>
                 </ul>
@@ -533,8 +538,10 @@ Usability
               </td>
               <!--Lecture -->
               <td>11/12</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+
+                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
+
                   style="font-weight: bold;"></span> <br>
                 <ul>
                   <li>Daily Scrum (Stand-up Meeting)</li>
@@ -569,8 +576,7 @@ Usability
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li>Demo of Team Websites</li>
-                  <li>Daily Scrum (Stand-up Meeting)</li>
+                  <li>Transfinder Networking Event (Off Campus)</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -601,7 +607,8 @@ Usability
               <!-- Month -->
               <td>11/24</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+
                   style="font-weight: bold; text-decoration: underline;">No
                   Lecture</span>:
                 <ul>
@@ -634,6 +641,7 @@ Usability
                 </span><br>
                 <ul>
                   <li>Guest Speakers</li>
+                  <li>Demo of Team Websites</li>
                   <li>SaaS, PaaS, &amp; IaaS</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
@@ -655,7 +663,8 @@ Usability
               <!-- Assignments/Readings -->
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="http://www.interoute.com/what-saas">What
+                      is SaaS? </a></li>
                 </ul>
               </td>
             </tr>
@@ -687,8 +696,7 @@ Usability
               </td>
               <td>
                 <ul>
-                  <li><a target="_blank" href="http://www.interoute.com/what-saas">What
-                      is SaaS? </a></li>
+                  <li>TBA</li>
                 </ul>
               </td>
             </tr>
