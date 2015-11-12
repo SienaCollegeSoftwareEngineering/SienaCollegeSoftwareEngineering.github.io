@@ -24,8 +24,7 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
-
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
@@ -76,8 +75,7 @@
               </td>
               <!--Lecture -->
               <td>9/10</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
                   style="text-decoration: underline; font-weight: bold;">Lab 1:
                 </span><br>
                 <ul>
@@ -398,8 +396,7 @@
                   <li><a target="_blank" href="http://www.useit.com/papers/heuristic/heuristic_list.html">Ten
 Usability
                       Heuristics</a></li>
-                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
-
+                  <li><a target="_blank" href="http://www.gui-bloopers.com/checklist.php"><span
                         style="color: #428bca;">GUI Bloopers Checklist</span></a></li>
                   <li><a target="_blank" href="http://www.ambysoft.com/essays/userInterfaceDesign.html">User
                       Interface Design Tips, Techniques, and Principles</a></li>
@@ -476,16 +473,14 @@ Usability
               <!-- Month -->
               <td>11/3</td>
               <!-- Day -->
-              <td> <strong><span style="text-decoration: underline;"></span></strong><span
-
+              <td> <strong><span style="text-decoration: underline;"></span></strong><span
                   style="font-style: italic;">No Formal Lecture</span>:
                 <ul>
                   <li><span style="font-style: italic;">Daily Scrum (Stand-up
                       Meeting)</span><br>
                     <span style="font-style: italic;"><span style="font-weight: bold;"></span></span></li>
                   <li><span style="font-style: italic;">Work on Sprint 1<span style="font-weight: bold;"></span></span></li>
-                  <li><span style=" font-style: italic;">Work on team websites<span
-
+                  <li><span style=" font-style: italic;">Work on team websites<span
                         style=" font-weight: bold;"><br>
                       </span></span></li>
                 </ul>
@@ -538,15 +533,12 @@ Usability
               </td>
               <!--Lecture -->
               <td>11/12</td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
-
-                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
-
+              <td><span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="font-weight: bold; text-decoration: underline;">Lab 9:</span><span
                   style="font-weight: bold;"></span> <br>
                 <ul>
+                  <li>Sprint 1 Retrospective&nbsp;</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
-                  <li>Backlog Refinement Meeting</li>
-                  <li>Sprint 1 Retrospective Meeting</li>
                   <li>Sprint 2 Planning Meeting - Develop Sprint Backlog</li>
                 </ul>
               </td>
@@ -565,6 +557,13 @@ Usability
                 <ul>
                   <li><a target="_blank" href="https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective">Key
                       Elements of the Sprint Retrospective</a></li>
+                  <li><a target="_blank" href="http://stevenmsmith.com/ar-safety-check/">Safety
+                      Check - by Steven Smith</a></li>
+                  <li><a target="_blank" href="https://www.careerkey.org/choose-a-career/networking.html">Networking</a>
+                  </li>
+                  <li><a target="_blank" href="http://fortune.com/2015/07/07/tom-farley-networking-tips/">NYSE
+                      President: I owe every job I've ever had to networking</a>
+                  </li>
                 </ul>
               </td>
               <!-- Assignments/Readings -->
@@ -576,7 +575,8 @@ Usability
               <td> <span style="font-weight: bold; text-decoration: underline;">Lecture</span>:
                 <br>
                 <ul>
-                  <li>Transfinder Networking Event (Off Campus)</li>
+                  <li>Transfinder Networking Event <br>
+                    (Off Campus)</li>
                 </ul>
               </td>
               <!--Lecture -->
@@ -607,8 +607,7 @@ Usability
               <!-- Month -->
               <td>11/24</td>
               <!-- Day -->
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
-
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
                   style="font-weight: bold; text-decoration: underline;">No
                   Lecture</span>:
                 <ul>
@@ -642,7 +641,6 @@ Usability
                 <ul>
                   <li>Guest Speakers</li>
                   <li>Demo of Team Websites</li>
-                  <li>SaaS, PaaS, &amp; IaaS</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
@@ -674,6 +672,7 @@ Usability
                 </span>
                 <ul>
                   <li>Quiz 3</li>
+                  <li>SaaS, PaaS, &amp; IaaS</li>
                   <li>Daily Scrum (Stand-up Meeting)</li>
                 </ul>
               </td>
