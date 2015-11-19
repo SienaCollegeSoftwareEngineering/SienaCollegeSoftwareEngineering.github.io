@@ -1,68 +1,68 @@
 <!DOCTYPE html>
-<html  lang="en">
+<html lang="en">
   <head>
-    <meta  content="text/html; charset=UTF-8"  http-equiv="content-type">
-    <meta  http-equiv="X-UA-Compatible"  content="IE=edge">
-    <meta  name="viewport"  content="width=device-width, initial-scale=1.0">
-    <meta  name="description"  content="Siena Software Engineering - Computer Science Department">
-    <meta  name="author"  content="Meg Fryling">
-    <link  rel="shortcut icon"  href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Siena Software Engineering - Computer Science Department">
+    <meta name="author" content="Meg Fryling">
+    <link rel="shortcut icon" href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
     <title>Siena Software Engineering - Computer Science Department</title>
     <!-- Bootstrap core CSS -->
-    <link  href="Calendar_files/bootstrap.css"  rel="stylesheet">
+    <link href="Calendar_files/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link  href="Calendar_files/se2014.css"  rel="stylesheet">
-    <link  href="Calendar_files/font-awesome.css"  rel="stylesheet">
+    <link href="Calendar_files/se2014.css" rel="stylesheet">
+    <link href="Calendar_files/font-awesome.css" rel="stylesheet">
     <!-- Fav and touch icons -->
-    <link  rel="apple-touch-icon-precomposed"  sizes="144x144"  href="ico/apple-touch-icon-144-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  sizes="114x114"  href="ico/apple-touch-icon-114-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  sizes="72x72"  href="ico/apple-touch-icon-72-precomposed.png">
-    <link  rel="apple-touch-icon-precomposed"  href="ico/apple-touch-icon-57-precomposed.png">
-    <link  rel="shortcut icon"  href="ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="ico/favicon.png">
   </head>
   <!--**********************************************************************************************************-->
   <body>
-    <div  class="navbar navbar-inverse navbar-fixed-top"  role="navigation">
-      <div  class="container">
-        <div  class="navbar-header"> <button  type="button"  class="navbar-toggle"
-             data-toggle="collapse"  data-target=".navbar-collapse"> <span  class="sr-only">Toggle
-              navigation</span> <span  class="icon-bar"></span> <span  class="icon-bar"></span>
-            <span  class="icon-bar"></span> </button> <a  class="navbar-brand"
-             href="index.html">&nbsp; Home</a> </div>
-        <div  class="collapse navbar-collapse">
-          <ul  class="nav navbar-nav">
-            <li><a  href="calendars.html">&nbsp;Course Calendar</a></li>
-            <li><a  href="teams.html">&nbsp;Team Websites</a></li>
-            <li><a  href="links.html"><span  class="fa fa-link"></span>&nbsp;Course-Related
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
+            data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+              navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
+            Home</a> </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
+            <li><a href="teams.html">&nbsp;Team Websites</a></li>
+            <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
                 Links</a></li>
-            <li><a  href="http://www.siena.edu/cs/"  target="_blank">CS@Siena</a></li>
-            <li><a  href="http://www.siena.edu"  target="_blank">&nbsp; Siena
+            <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
+            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
                 College</a></li>
           </ul>
         </div>
       </div>
     </div>
     <!--********************************************************************************************************************************************************-->
-    <div  class="container">
-      <div  class="table-responsive"> </div>
-      <div  class="page-header">
+    <div class="container">
+      <div class="table-responsive"> </div>
+      <div class="page-header">
         <h1>CSIS415. Software Engineering II Calendar</h1>
       </div>
       <!-- page header --><br>
       <br>
-      <div  class="table-responsive">
-        <table  class="table table-bordered table-striped">
+      <div class="table-responsive">
+        <table class="table table-bordered table-striped">
           <thead>
             <tr>
               <th>Date</th>
               <th> Monday<br>
               </th>
-              <td><span  style="font-weight: bold;">Date</span></td>
+              <td><span style="font-weight: bold;">Date</span></td>
               <th> Wednesday<br>
               </th>
-              <td  style="width: 304px;"><span  style="font-weight: bold;">Assignments<br>
+              <td style="width: 304px;"><span style="font-weight: bold;">Assignments<br>
                 </span></td>
-              <th  style="margin-left: 0px;">Readings (Due before the following
+              <th style="margin-left: 0px;">Readings (Due before the following
                 week's lecture)</th>
             </tr>
           </thead>
@@ -70,11 +70,11 @@
             <tr>
               <td>1/18<br>
               </td>
-              <td> <span  style="font-weight: bold; text-decoration: underline;"></span><span
-                   style="font-style: italic;">MLK - No Classes</span></td>
+              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
+                  style="font-style: italic;">MLK - No Classes</span></td>
               <td>1/20<br>
               </td>
-              <td><span  style="font-weight: bold; text-decoration: underline;"></span>Lecture
+              <td><span style="font-weight: bold; text-decoration: underline;"></span>Lecture
                 1: <br>
                 <ul>
                   <li>Welcome back!</li>
@@ -82,7 +82,9 @@
               </td>
               <td>
                 <ul>
-                  <li><span  style=" color: #333333;">TBA</span><span  style=" color: #333333;"></span></li>
+                  <li><span style=" color: #333333;"></span><span style=" color: #333333;"></span>Meet
+                    with client</li>
+                  <li>Start Sprint 3</li>
                 </ul>
               </td>
               <td>
@@ -93,15 +95,15 @@
             </tr>
             <tr>
               <td>1/25</td>
-              <td><span  style="font-style: italic;"></span> Lab 2: <br>
+              <td><span style="font-style: italic;"></span> Lab 1: <br>
                 <ul>
-                  <li> <span  style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA</span></li>
+                  <li> <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA</span></li>
                 </ul>
               </td>
               <td>1/27</td>
               <td>Lecture 2: <br>
                 <ul>
-                  <li><span  style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA<br>
+                  <li><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA<br>
                     </span></li>
                 </ul>
               </td>
@@ -111,18 +113,6 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://www.businessweek.com/stories/2005-11-16/actions-do-speak-louder-than-words">Actions
-                      Do Speak Louder Than Words - Developing a Commanding
-                      Presence </a></li>
-                  <li><a  target="_blank"  href="https://www.youtube.com/watch?v=Ks-_Mh1QhMc">TED
-                      Talk by Amy Cuddy: Your body language shapes who you are</a><br>
-                  </li>
-                  <li><a  target="_blank"  href="http://www.techworm.net/2014/12/indian-isps-block-free-paste-website-pastebin-git-hosting-repository-github.html">Indian
-                      ISPs Block Free Paste website, Pastebin, Git Hosting
-                      Repository, GitHub</a></li>
-                  <li><a  target="_blank"  href="http://digital-law-online.info/lpdi1.0/treatise26.html"><span
-                         style="color: #428bca;">Copyright of Computer Programs</span></a><br>
-                  </li>
                 </ul>
               </td>
             </tr>
@@ -145,9 +135,6 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://www.wired.com/2014/12/government-computer-security/">How
-                      Laws Restricting Tech Actually Expose Us to Greater Harm</a><br>
-                  </li>
                 </ul>
               </td>
             </tr>
@@ -167,16 +154,7 @@
               </td>
               <td> <br>
               </td>
-              <td>
-                <ul>
-                  <li> <a  target="_blank"  href="http://www.tutorialspoint.com/software_testing/">Software
-                      Testing Methods</a></li>
-                  <li><a  target="_blank"  href="http://www.nationaljournal.com/health-care/obamacare-website-has-cost-840-million-20140730"><span
-                         style="color: #428bca;">Obamacare Website Has Cost $840
-                        Million</span></a></li>
-                  <li><span  style=" color: #428bca;"><a  target="_blank"  href="http://www.cnn.com/2013/10/24/politics/congress-obamacare-website/">Contractors
-                        blame government for Obamacare website woes</a></span></li>
-                </ul>
+              <td> <br>
               </td>
             </tr>
             <tr>
@@ -189,39 +167,25 @@
               <td>2/17</td>
               <td>Lecture 5:<br>
                 <ul>
-                  <li>TBA<br>
-                  </li>
+                  <li>Sprint 3 Review/Demo </li>
                 </ul>
               </td>
               <td> <br>
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="https://docs.google.com/a/siena.edu/document/d/1ny_0RuJAGOT7rHE6FmxjLC3Cmdx1D-TrEzbL6Eaa-QM/edit?usp=sharing">CSIS350:
-                      Translating E/R Diagrams to Relational Schemas</a><br>
-                    <span  style="  color: #428bca;"></span></li>
-                  <li><span  style="  color: #428bca;"><a  target="_blank"  href="http://users.csc.calpoly.edu/%7Ejdalbey/SWE/pdl_std.html">Pseudocode
-                        Guidelines</a></span> </li>
                 </ul>
               </td>
             </tr>
             <tr>
               <td>2/22</td>
-              <td><span  style="font-style: italic;">Recess - No Classes</span></td>
+              <td><span style="font-style: italic;">Recess - No Classes</span></td>
               <td>2/24</td>
-              <td><span  style="font-style: italic;">Recess - No Classes</span></td>
+              <td><span style="font-style: italic;">Recess - No Classes</span></td>
               <td> <br>
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://sethgodin.typepad.com/seths_blog/2015/02/the-enemy-of-creativity.html">The
-                      Enemy of Creativity...</a></li>
-                  <li><a  target="_blank"  href="http://sethgodin.typepad.com/seths_blog/2015/01/five-thoughts-on-software.html">Five
-                      thoughts on software</a></li>
-                  <li><a  target="_blank"  href="http://mashable.com/2015/02/14/interview-question-mistakes/?utm_cid=mash-com-fb-main-link">4
-                      pitfalls to avoid in answering "Why are you interested in
-                      this position?"</a><br>
-                  </li>
                 </ul>
               </td>
             </tr>
@@ -233,19 +197,14 @@
                 </ul>
               </td>
               <td>3/2</td>
-              <td><span  style="font-style: italic;"></span>Lecture 6:<br>
+              <td><span style="font-style: italic;"></span>Lecture 6:<br>
                 <ul>
-                  <li> Sprint 3 Review/Demo</li>
+                  <li> TBA</li>
                 </ul>
               </td>
               <td> <br>
               </td>
-              <td>
-                <ul>
-                  <li><a  target="_blank"  href="http://sethgodin.typepad.com/seths_blog/2015/02/the-first-rule-of-web-design.html">The
-                      first rule of web design</a> <br>
-                  </li>
-                </ul>
+              <td> <br>
               </td>
             </tr>
             <tr>
@@ -268,23 +227,18 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="https://msdn.microsoft.com/en-us/library/bb924372.aspx">Load-Testing
-                      Web Applications</a><br>
-                  </li>
-                  <li><a  target="_blank"  href="https://msdn.microsoft.com/en-us/library/bb924374.aspx">Stress
-                      Testing Web Applications</a></li>
                 </ul>
               </td>
             </tr>
             <tr>
               <td>3/14</td>
-              <td><span  style="font-weight: bold;"></span>Lab 7: <br>
+              <td><span style="font-weight: bold;"></span>Lab 7: <br>
                 <ul>
                   <li>TBA</li>
                 </ul>
               </td>
               <td>3/16</td>
-              <td><span  style="font-weight: bold;"></span>Lecture 8:<br>
+              <td><span style="font-weight: bold;"></span>Lecture 8:<br>
                 <ul>
                   <li>TBA</li>
                 </ul>
@@ -295,12 +249,6 @@
               </td>
               <td>
                 <ul>
-                  <li><a  target="_blank"  href="http://www.softwaretestinghelp.com/what-is-performance-testing-load-testing-stress-testing/">Difference
-                      Between Performance Testing, Load Testing and Stress
-                      Testing</a><br>
-                  </li>
-                  <li><a  target="_blank"  href="http://www.bloomberg.com/news/2013-11-07/obamacare-website-handled-1-100-users-in-test-at-start.html">U.S.
-                      Health Website Handled Only 1,100 in Test at Start </a></li>
                 </ul>
               </td>
             </tr>
@@ -312,7 +260,7 @@
                 </ul>
               </td>
               <td>3/23</td>
-              <td> <span  style="font-weight: bold;"></span>Lecture 9:<br>
+              <td> <span style="font-weight: bold;"></span>Lecture 9:<br>
                 <ul>
                   <li>TBA</li>
                 </ul>
@@ -326,11 +274,11 @@
             </tr>
             <tr>
               <td>3/28</td>
-              <td><span  style="font-style: italic;">Easter Monday - No Classes</span></td>
+              <td><span style="font-style: italic;">Easter Monday - No Classes</span></td>
               <td>3/30</td>
               <td>Lecture 10:<br>
                 <ul>
-                  <li>TBA</li>
+                  <li>Sprint 4 Review/Demo</li>
                 </ul>
               </td>
               <td><br>
@@ -347,7 +295,11 @@
                 </ul>
               </td>
               <td>4/6</td>
-              <td><br>
+              <td>Lecture 11:<br>
+                <ul>
+                  <li>TBA<br>
+                  </li>
+                </ul>
               </td>
               <td>
                 <ul>
@@ -358,12 +310,15 @@
             </tr>
             <tr>
               <td>4/11</td>
-              <td><br>
+              <td>Lab 10: <br>
+                <ul>
+                  <li>TBA</li>
+                </ul>
               </td>
               <td>4/13</td>
-              <td>Lecture 11:<br>
+              <td>Lecture 12:<br>
                 <ul>
-                  <li>Agile Development - Alumnus Guest Speaker</li>
+                  <li>TBA</li>
                 </ul>
               </td>
               <td> <br>
@@ -373,13 +328,16 @@
             </tr>
             <tr>
               <td>4/18</td>
-              <td>Lab 10: Java Serialization </td>
-              <td>4/20</td>
-              <td>Lecture 12:<br>
+              <td>Lab 11:<br>
                 <ul>
-                  <li>Guest Speaker</li>
-                  <li>Final Team Website Review<span  style="font-style: italic;"><span
-                         style="font-weight: bold;"></span></span></li>
+                  <li>TBA</li>
+                </ul>
+              </td>
+              <td>4/20</td>
+              <td>Lecture 13:<br>
+                <ul>
+                  <li>Final Team Website Review<span style="font-style: italic;"><span
+                        style="font-weight: bold;"></span></span></li>
                 </ul>
               </td>
               <td>
@@ -391,25 +349,18 @@
             </tr>
             <tr>
               <td>4/25</td>
-              <td><span  style="font-weight: bold;"></span><span  style="font-weight: bold;">Acceptance
-                  Test PRESENTATIONS<br>
-                </span>
+              <td>Lab 12:<br>
                 <ul>
-                  <li>Omega Tech</li>
-                  <li>Seraphim</li>
-                  <li>Nova Tech<span  style=" font-weight: bold;"><br>
-                    </span></li>
+                  <li>TBA</li>
                 </ul>
               </td>
               <td>4/27</td>
-              <td><span  style="font-weight: bold;">Acceptance Test
-                  PRESENTATIONS</span><br>
+              <td>Lecture 14:<br>
                 <ul>
-                  <li>SMARK Solutions</li>
-                  <li>Maroon Solutions</li>
-                  <li>MAKER Technologies</li>
+                  <li>Sprint 5 Review/Demo</li>
                 </ul>
-                <br>
+                <ul>
+                </ul>
                 <ul>
                 </ul>
               </td>
@@ -425,12 +376,12 @@
               <td>End of Year Party!<br>
                 <ul>
                   <li>6:00-9:00 PM</li>
-                  <li>Location: The Norm - Longstrom Dining Hall</li>
+                  <li>Location: The Norm - Lonnstrom Dining Hall</li>
                 </ul>
               </td>
               <td><br>
               </td>
-              <td><span  style="font-weight: bold;"></span><br>
+              <td><span style="font-weight: bold;"></span><br>
               </td>
               <td><br>
               </td>
@@ -464,7 +415,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script  src="Calendar_files/jquery.js"></script>
-    <script  src="Calendar_files/bootstrap.js"></script>
+    <script src="Calendar_files/jquery.js"></script>
+    <script src="Calendar_files/bootstrap.js"></script>
   </body>
 </html>

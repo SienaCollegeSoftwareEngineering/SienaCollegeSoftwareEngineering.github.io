@@ -12,8 +12,7 @@
     <link href="./css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="./css/se2014.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
-
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
       rel="stylesheet">
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
@@ -26,24 +25,20 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
-
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html"><i
-
-              class="fa fa-home"></i>&nbsp; Home</a> </div>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
+            Home</a> </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="calendars.html"><i class="fa fa-calendar"></i>&nbsp;Course
-                Calendar</a></li>
-            <li><a href="teams.html"><i class="fa fa-file"></i>&nbsp;Team
-                Websites</a></li>
+            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
+            <li><a href="teams.html">&nbsp;Team Websites</a></li>
             <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
                 Links</a></li>
             <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
-            <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
-                Siena College</a></li>
+            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
+                College</a></li>
           </ul>
         </div>
       </div>
@@ -54,8 +49,7 @@
         <h1>Software Engineering @ Siena College</h1>
         <!--<p>This is a great area to put important stuff </p>--> </div>
       <div class="container">
-        <p><a class="btn btn-primary btn-lg" role="button" href="index.html"><span
-
+        <p><a class="btn btn-primary btn-lg" role="button" href="index.html"><span
               class="glyphicon glyphicon-info-sign"></span> Course Descriptions
             »</a></p>
       </div>
@@ -69,7 +63,7 @@
         </div>
         <div class="page-header">
           <h1><a href="http://sienacollegesoftwareengineering.github.io/CSIS410Calendar2015.html">CSIS410.
-              Software Engineering I Calendar (2015</span></span>)</a></h1>
+              Software Engineering I Calendar (2015)</a></h1>
         </div>
         <br>
         <footer>
