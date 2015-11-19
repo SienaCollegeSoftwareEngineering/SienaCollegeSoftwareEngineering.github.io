@@ -19,16 +19,15 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="ico/favicon.png">
-  <script src="js/jquery-1.11.1.js"></script>
+    <script src="js/jquery-1.11.1.js"></script>
     <script> 
     $(function(){
       $("#includedContent").load("navbar.html"); 
     });
     </script>
   </head>
-  <!-- NAVBAR
-================================================== --> <body>
-    <div id="includedContent"></div>
+  <!--**********************************************************************************************************-->
+  <body>
     <!-- <div id="includedContent"></div> -->
     <!--********************************************************************************************************************************************************-->
     <div class="container">
