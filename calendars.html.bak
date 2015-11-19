@@ -12,8 +12,7 @@
     <link href="./css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="./css/se2014.css" rel="stylesheet">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
-
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
       rel="stylesheet">
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
@@ -26,8 +25,7 @@
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
-
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">&nbsp;
@@ -51,8 +49,7 @@
         <h1>Software Engineering @ Siena College</h1>
         <!--<p>This is a great area to put important stuff </p>--> </div>
       <div class="container">
-        <p><a class="btn btn-primary btn-lg" role="button" href="index.html"><span
-
+        <p><a class="btn btn-primary btn-lg" role="button" href="index.html"><span
               class="glyphicon glyphicon-info-sign"></span> Course Descriptions
             »</a></p>
       </div>
@@ -67,7 +64,7 @@
         <div class="page-header">
           <h1><a href="http://sienacollegesoftwareengineering.github.io/CSIS410Calendar2015.html">CSIS410.
               Software Engineering I Calendar (2015)</a></h1>
-          <h1><a href="http://sienacollegesoftwareengineering.github.io/CSIS415Calendar2016.html">CSIS410.
+          <h1><a href="http://sienacollegesoftwareengineering.github.io/CSIS415Calendar2016.html">CSIS415.
               Software Engineering II Calendar (2016)</a></h1>
         </div>
         <br>
