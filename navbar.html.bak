@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title></title>
+  </head>
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
+                data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+                  navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                <span class="icon-bar"></span> </button> <a class="navbar-brand"
+
+                href="index.html"><i class="fa fa-home"></i>&nbsp; Home</a> </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="officeHours.html"><span class="glyphicon glyphicon-user"></span>&nbsp;
+                    Contact</a></li>
+                <li><a href="background.html">Background</a></li>
+                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teaching<b
+
+                      class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li class="divider"><br>
+                    </li>
+                    <li class="dropdown-header">Siena College</li>
+                    <li><a href="teachingSiena.html">Courses Taught</a></li>
+                    <li><a href="officeHours.html">Office Hours</a></li>
+                    <li><a href="schedule.html">Schedule</a></li>
+                    <li class="divider"><br>
+                    </li>
+                    <li class="dropdown-header">UAlbany</li>
+                    <li><a href="teachingUAlbany.html">Courses Taught</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Scholarship<b
+
+                      class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="news.html">News</a></li>
+                    <li><a href="grants.html">Grants</a></li>
+                    <li><a href="presentations.html">Presentations</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="http://preventcyberbullying.org/" target="_blank">Cyberbullying
+                        Research</a></li>
+                  </ul>
+                </li>
+                <li><a href="http://www.siena.edu/cs" target="_blank">CS@Siena</a></li>
+                <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
+                    Siena College</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
