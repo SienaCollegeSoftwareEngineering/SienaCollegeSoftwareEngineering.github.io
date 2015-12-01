@@ -22,32 +22,30 @@
     <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="ico/favicon.png">
   </head>
-   <!--**********************************************************************************************************-->
+  <!--**********************************************************************************************************-->
   <body>
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+      <!--<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">-->
       <div class="container">
         <div class="navbar-header"> <button type="button" class="navbar-toggle"
 
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html"><i
-
-              class="fa fa-home"></i>&nbsp; Home</a> </div>
+            <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">
+            <i class="fa fa-home"></i>&nbsp; Home</a> </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="calendars.html"><i class="fa fa-calendar"></i>&nbsp;Course
                 Calendar</a></li>
             <li><a href="teams.html"><i class="fa fa-file"></i>&nbsp;Team
                 Websites</a></li>
-            <li><a href="links.html"><span class="fa fa-link"></span>&nbsp;Course-Related
-                Links</a></li>
             <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
             <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
                 Siena College</a></li>
           </ul>
         </div>
       </div>
-    </div>
+    </header>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
@@ -67,6 +65,25 @@
       <!--		  
 		  <div class="row">		  <div class="col-md-12">		   <div class="panel panel-primary">			  <div class="panel-heading">			    <h3 class="panel-title">2014-2015 Teams</h3>			  </div>			  <div class="panel-body">			   			  </div>		  </div>		  </div> 		  </div> -->
       <div class="row">
+        <div class="col-md-6">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">2015-2016 Teams</h3>
+            </div>
+            <div class="panel-body">
+              <ul>
+                <li>Alphabit Soupt</li>
+                <li><a target="_blank" href="http://oraserv.cs.siena.edu/~perm_astral_systems/teamweb/">ASTRAL Systems
+                    </a></li>
+                
+                <li><a target="_blank" href="http://oraserv.cs.siena.edu/~perm_elite/Elite/team_website/">Elite
+                    Tech</a></li>
+                
+                <li><a target="_top" href="http://oraserv.cs.siena.edu/~perm_maltan/Team%20Website/">MALTAN</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
         <div class="col-md-6">
           <div class="panel panel-primary">
             <div class="panel-heading">
