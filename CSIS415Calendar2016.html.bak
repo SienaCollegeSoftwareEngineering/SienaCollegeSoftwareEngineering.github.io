@@ -3,8 +3,10 @@
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Siena Software Engineering - Computer Science Department">
+    <meta name="viewport" content="width=device-width,
+      initial-scale=1.0">
+    <meta name="description" content="Siena Software Engineering -
+      Computer Science Department">
     <meta name="author" content="Meg Fryling">
     <link rel="shortcut icon" href="http://www.cs.siena.edu/docs-assets/ico/favicon.png">
     <title>Siena Software Engineering - Computer Science Department</title>
@@ -37,23 +39,21 @@
   </head>
   <body>
     <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
-    <!--<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">-->
+      <!--<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">-->
       <div class="container">
-        <div class="navbar-header"> <button type="button" class="navbar-toggle"
-
+        <div class="navbar-header"> <button type="button" class="navbar-toggle"
             data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle
+
               navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> </button> <a class="navbar-brand" href="index.html">
-          <i class="fa fa-home"></i>&nbsp; Home</a> </div>
+            &nbsp; Home</a> </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="calendars.html"><i class="fa fa-calendar"></i>&nbsp;Course
-                Calendar</a></li>
-            <li><a href="teams.html"><i class="fa fa-file"></i>&nbsp;Team
-                Websites</a></li>            
+            <li><a href="calendars.html">&nbsp;Course Calendar</a></li>
+            <li><a href="teams.html">&nbsp;Team Websites</a></li>
             <li><a href="http://www.siena.edu/cs/" target="_blank">CS@Siena</a></li>
-            <li><a href="http://www.siena.edu" target="_blank"><i class="fa fa-university"></i>&nbsp;
-                Siena College</a></li>
+            <li><a href="http://www.siena.edu" target="_blank">&nbsp; Siena
+                College</a></li>
           </ul>
         </div>
       </div>
@@ -86,13 +86,13 @@
             <tr>
               <td>1/18<br>
               </td>
-              <td> <span style="font-weight: bold; text-decoration: underline;"></span><span
-
-                  style="font-style: italic;">MLK - No Classes</span></td>
+              <td> <span style="font-weight: bold; text-decoration:
+                  underline;"></span><span style="font-style: italic;">MLK - No
+                  Classes</span></td>
               <td>1/20<br>
               </td>
-              <td><span style="font-weight: bold; text-decoration: underline;"></span>Lecture
-                1: <br>
+              <td><span style="font-weight: bold; text-decoration:
+                  underline;"></span>Lecture 1: <br>
                 <ul>
                   <li>Welcome back!</li>
                 </ul>
@@ -110,7 +110,12 @@
               </td>
               <td>
                 <ul>
-                  <li>TBA</li>
+                  <li><a target="_blank" href="http://mashable.com/2015/08/26/professional-job-search/?utm_cid=mash-com-fb-main-link#4nWmDDKLLmqF">3
+                      tricks for remaining professional in your job search
+                      without being boring</a><br>
+                  </li>
+                  <li><a target="_blank" href="http://mashable.com/2015/08/27/linkedin-next-level/?utm_cid=mash-com-fb-main-link#ebYG99.yLkqp">How
+                      to nail your LinkedIn profile</a> </li>
                 </ul>
               </td>
             </tr>
@@ -118,13 +123,15 @@
               <td>1/25</td>
               <td><span style="font-style: italic;"></span> Lab 1: <br>
                 <ul>
-                  <li> <span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA</span></li>
+                  <li> <span style="color: rgb(34, 34, 34);
+                      font-family: arial, sans-serif; font-size:                      12.5714282989502px; font-style: normal;                      font-variant: normal; font-weight: normal;                      letter-spacing: normal; line-height: normal;                      orphans: auto; text-align: start; text-indent:                      0px; text-transform: none; white-space: normal;                      widows: auto; word-spacing: 0px;                      -webkit-text-stroke-width: 0px; display: inline                      !important; float: none; background-color:                      rgb(255, 255, 255);">TBA</span></li>
                 </ul>
               </td>
               <td>1/27</td>
               <td>Lecture 2: <br>
                 <ul>
-                  <li><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.5714282989502px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">TBA<br>
+                  <li><span style="color: rgb(34, 34, 34); font-family:
+                      arial, sans-serif; font-size: 12.5714282989502px;                      font-style: normal; font-variant: normal;                      font-weight: normal; letter-spacing: normal;                      line-height: normal; orphans: auto; text-align:                      start; text-indent: 0px; text-transform: none;                      white-space: normal; widows: auto; word-spacing:                      0px; -webkit-text-stroke-width: 0px; display:                      inline !important; float: none; background-color:                      rgb(255, 255, 255);">TBA<br>
                     </span></li>
                 </ul>
               </td>
@@ -147,7 +154,9 @@
               <td>2/3</td>
               <td>Lecture 3:<br>
                 <ul>
-                  <li>Alumni Guest Speakers</li>
+                  <li>Alumni Guest Speakers <br>
+                    <span style="font-style: italic;">Dan Street and Nathan
+                      Levine</span></li>
                 </ul>
               </td>
               <td>
@@ -169,7 +178,9 @@
               <td>2/10</td>
               <td>Lecture 4: <br>
                 <ul>
-                  <li>TBA<br>
+                  <li>Guest Speaker<br>
+                    <span style="font-style: italic;">Tracy Nolan, CIO of Price
+                      Chopper Supermarkets </span><br>
                   </li>
                 </ul>
               </td>
@@ -220,7 +231,11 @@
               <td>3/2</td>
               <td><span style="font-style: italic;"></span>Lecture 6:<br>
                 <ul>
-                  <li> TBA</li>
+                  <li> Alumnus Guest Speaker <br>
+                    <span style="font-style: italic;">Mike Tanski<br>
+                      Co-founder and CTO of <a target="_blank" href="https://dumbstruck.me/">dumbstruck</a><br>
+                      Co-founder and Managing Director of <a target="_blank" href="http://www.doctoredapps.com/">Doctored
+                        Apps</a> </span></li>
                 </ul>
               </td>
               <td> <br>
@@ -357,9 +372,8 @@
               <td>4/20</td>
               <td>Lecture 13:<br>
                 <ul>
-                  <li>Final Team Website Review<span style="font-style: italic;"><span
-
-                        style="font-weight: bold;"></span></span></li>
+                  <li>Final Team Website Review<span style="font-style:
+                      italic;"><span style="font-weight: bold;"></span></span></li>
                 </ul>
               </td>
               <td>
