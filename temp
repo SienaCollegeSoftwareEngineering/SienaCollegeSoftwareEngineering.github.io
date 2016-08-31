@@ -1,0 +1,10 @@
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+</ul>
+
+<button id='foo'>Add Item</button>
+
+$('#foo').click(function(){
+ $('ul').append('<li>Item 4<li>');
+});
